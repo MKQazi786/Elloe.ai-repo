@@ -133,7 +133,7 @@ s.parentNode.insertBefore(b, s);})();
 <div class="js-lottie hero-section-9__animated-icon adjustable-element d-block mx-auto" data-path="https://forethought.ai/wp-content/uploads/2021/10/Analyze_Icon_v01.json" data-loop="false"></div>
 <h1 class="hero-section-9__title c-mt-3 text-center mx-auto">Discover proactive insights with generative AI.</h1>
 <div class="hero-section-9__content entry-content text-gray fw-medium mx-auto c-mt-5 line-height-1-6">
-<span class="notion-enable-hover" data-token-index="0">Forethought Discover is your AI advisor, using generative AI to provide proactive insights from past support interactions, recommend workflows to boost deflection rates, and generate knowledge base articles automatically.</span>
+<span class="notion-enable-hover" data-token-index="0">Elloe Discover is your AI advisor, using generative AI to provide proactive insights from past support interactions, recommend workflows to boost deflection rates, and generate knowledge base articles automatically.</span>
 &nbsp; </div>
 <svg class="hero-section-9__decor-1 position-absolute" data-anim="zoom-in" data-anim-zoom-start="0" viewBox="0 0 159 160" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M158.132 2.77692e-05C71.3668 1.25325e-05 -1.25647e-05 72.1749 -2.78405e-05 159.923C52.6902 159.923 105.442 159.923 158.132 159.923C158.132 106.636 158.132 53.2869 158.132 2.77692e-05Z" fill="#EC4A77" />
@@ -159,7 +159,7 @@ s.parentNode.insertBefore(b, s);})();
 &#13;
 &#13;
 <h3 class="fw-semibold font-family-base font-size-12 text-uppercase letter-spacing-200 c-mb-5 c-mb-lg-4">&#13;
-Forethought Discover </h3>&#13;
+Elloe Discover </h3>&#13;
 &#13;
 &#13;
 &#13;
@@ -393,21 +393,21 @@ Forethought Discover </h3>&#13;
 &#13;
 <section class="d-lg-none c-mt-only-6">&#13;
 <h3 class="font-family-base" id="complete-platform-po-7">Complete platform powered by generative AI</h3>&#13;
-<p class="c-mt-only-3 mb-0">Forethought infuses generative AI across the entire support ticket lifecycle&#x2014;boosting efficiency and the customer experience.</p>&#13;
+<p class="c-mt-only-3 mb-0">Elloe infuses generative AI across the entire support ticket lifecycle&#x2014;boosting efficiency and the customer experience.</p>&#13;
 </section>&#13;
 &#13;
 &#13;
 &#13;
 <section class="d-lg-none c-mt-only-6">&#13;
 <h3 class="font-family-base" id="trained-on-your-data-8">Trained On Your Data and LLMs</h3>&#13;
-<p class="c-mt-only-3 mb-0">Forethought learns from your data and from Large Language Models (LLMs), providing customized suggestions and insights.</p>&#13;
+<p class="c-mt-only-3 mb-0">Elloe learns from your data and from Large Language Models (LLMs), providing customized suggestions and insights.</p>&#13;
 </section>&#13;
 &#13;
 &#13;
 &#13;
 <section class="d-lg-none c-mt-only-6">&#13;
 <h3 class="font-family-base" id="crazy-fast-time-to-v-9">Crazy-Fast Time to Value</h3>&#13;
-<p class="c-mt-only-3 mb-0">Accelerate ROI with expert-led implementation that allows you to deploy Forethought in weeks instead of months.</p>&#13;
+<p class="c-mt-only-3 mb-0">Accelerate ROI with expert-led implementation that allows you to deploy Elloe in weeks instead of months.</p>&#13;
 </section>&#13;
 &#13;
 &#13;
@@ -491,7 +491,7 @@ Forethought Discover </h3>&#13;
 &#13;
 <div class="acf-block-cta__content entry-content c-mt-5 text-gray-3">&#13;
 <p>Everyone hates traditional chatbots.</p>
-<p>See a demo of Forethought today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
+<p>See a demo of Elloe today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
 </div>&#13;
 &#13;
 &#13;

@@ -132,7 +132,7 @@ s.parentNode.insertBefore(b, s);})();
 <div class="js-lottie hero-section-6__animated-icon adjustable-element d-block mx-auto" data-path="https://forethought.ai/wp-content/uploads/2021/10/Solve_Icon_v02.json" data-loop="false"></div>
 <h1 class="hero-section-6__title c-mt-3 text-center mx-auto">Precise, automatic issue resolution creates happier customers.</h1>
 <div class="hero-section-6__content entry-content text-gray fw-medium mx-auto c-mt-5 line-height-1-6">
-Forethought Solve uses your historical data, combined natural language understanding and generative AI to build the right policy and actions automatically, giving customers the answers they need instantly. </div>
+Elloe Solve uses your historical data, combined natural language understanding and generative AI to build the right policy and actions automatically, giving customers the answers they need instantly. </div>
 <svg class="hero-section-6__decor-1 d-none d-lg-block position-absolute" data-anim="zoom-in" data-anim-zoom-start="0" viewBox="0 0 125 124" fill="none" xmlns="http://www.w3.org/2000/svg">
 <mask id="hero-6-gradient-1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="125" height="124">
 <path d="M125 61.7882C125 27.6626 97.0181 -0.00175391 62.5002 -0.00175693C27.9823 -0.00175994 8.38521e-06 27.6626 5.40185e-06 61.7882C2.41849e-06 95.9138 27.9823 123.578 62.5002 123.578C80.9886 123.578 125 123.578 125 123.578C125 123.578 125 77.6355 125 61.7882Z" fill="#68E0F7" />
@@ -165,7 +165,7 @@ Forethought Solve uses your historical data, combined natural language understan
 &#13;
 &#13;
 <h3 class="fw-semibold font-family-base font-size-12 text-uppercase letter-spacing-200 c-mb-5 c-mb-lg-4">&#13;
-Forethought Solve </h3>&#13;
+Elloe Solve </h3>&#13;
 &#13;
 &#13;
 &#13;
@@ -505,21 +505,21 @@ Forethought Solve </h3>&#13;
 &#13;
 <section class="d-lg-none c-mt-only-6">&#13;
 <h3 class="font-family-base" id="complete-platform-po-8">Complete platform powered by generative AI</h3>&#13;
-<p class="c-mt-only-3 mb-0">Forethought infuses generative AI across the entire support ticket lifecycle&#x2014;boosting efficiency and the customer experience.</p>&#13;
+<p class="c-mt-only-3 mb-0">Elloe infuses generative AI across the entire support ticket lifecycle&#x2014;boosting efficiency and the customer experience.</p>&#13;
 </section>&#13;
 &#13;
 &#13;
 &#13;
 <section class="d-lg-none c-mt-only-6">&#13;
 <h3 class="font-family-base" id="trained-on-your-data-9">Trained On Your Data and LLMs</h3>&#13;
-<p class="c-mt-only-3 mb-0">Forethought learns from your data and from Large Language Models (LLMs), providing customized suggestions and insights.</p>&#13;
+<p class="c-mt-only-3 mb-0">Elloe learns from your data and from Large Language Models (LLMs), providing customized suggestions and insights.</p>&#13;
 </section>&#13;
 &#13;
 &#13;
 &#13;
 <section class="d-lg-none c-mt-only-6">&#13;
 <h3 class="font-family-base" id="crazy-fast-time-to-v-10">Crazy-Fast Time to Value</h3>&#13;
-<p class="c-mt-only-3 mb-0">Accelerate ROI with expert-led implementation that allows you to deploy Forethought in weeks instead of months.</p>&#13;
+<p class="c-mt-only-3 mb-0">Accelerate ROI with expert-led implementation that allows you to deploy Elloe in weeks instead of months.</p>&#13;
 </section>&#13;
 &#13;
 &#13;
@@ -848,7 +848,7 @@ Forethought Solve </h3>&#13;
 &#13;
 &#13;
 &#13;
-<h2 class="font-size-36 line-height-1-3" id="i-am-so-impre-14">&#x201C;I am so impressed with the results, so I want to put Forethought in front of every support channel that we have.&#x201D;</h2>&#13;
+<h2 class="font-size-36 line-height-1-3" id="i-am-so-impre-14">&#x201C;I am so impressed with the results, so I want to put Elloe in front of every support channel that we have.&#x201D;</h2>&#13;
 &#13;
 &#13;
 &#13;
@@ -890,7 +890,7 @@ Forethought Solve </h3>&#13;
 &#13;
 <div class="acf-block-cta__content entry-content c-mt-5 text-gray-3">&#13;
 <p>Everyone hates traditional chatbots.</p>
-<p>See a demo of Forethought today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
+<p>See a demo of Elloe today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
 </div>&#13;
 &#13;
 &#13;

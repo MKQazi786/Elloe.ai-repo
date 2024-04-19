@@ -88,7 +88,7 @@ s.parentNode.insertBefore(b, s);})();
 <meta name="twitter:description" content="Help us build the future of customer support. Apply to be a Forethought Partner today." />
 <meta name="twitter:label1" content="Time to read" />
 <meta name="twitter:data1" content="Less than a minute" />
-<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://forethought.ai/#organization","name":"Forethought"},{"@type":"WebSite","@id":"https://forethought.ai/#website","url":"https://forethought.ai","name":"Forethought","publisher":{"@id":"https://forethought.ai/#organization"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://forethought.ai/partners/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://forethought.ai","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://forethought.ai/partners/","name":"Partners"}}]},{"@type":"WebPage","@id":"https://forethought.ai/partners/#webpage","url":"https://forethought.ai/partners/","name":"Partners | Forethought","datePublished":"2021-10-07T14:39:33-07:00","dateModified":"2024-04-02T13:52:23-07:00","isPartOf":{"@id":"https://forethought.ai/#website"},"inLanguage":"en-US","breadcrumb":{"@id":"https://forethought.ai/partners/#breadcrumb"}},{"@type":"Person","@id":"https://forethought.ai/author/it-services/","name":"IT Services","url":"https://forethought.ai/author/it-services/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/9e2c7ce31a351d965ab02283d4881048?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/9e2c7ce31a351d965ab02283d4881048?s=96&amp;d=mm&amp;r=g","caption":"IT Services","inLanguage":"en-US"},"worksFor":{"@id":"https://forethought.ai/#organization"}},{"@type":"Article","headline":"Partners | Forethought","datePublished":"2021-10-07T14:39:33-07:00","dateModified":"2024-04-02T13:52:23-07:00","author":{"@id":"https://forethought.ai/author/it-services/","name":"IT Services"},"publisher":{"@id":"https://forethought.ai/#organization"},"description":"Help us build the future of customer support. Apply to be a Forethought Partner today.","name":"Partners | Forethought","@id":"https://forethought.ai/partners/#richSnippet","isPartOf":{"@id":"https://forethought.ai/partners/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://forethought.ai/partners/#webpage"}}]}</script>
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://forethought.ai/#organization","name":"Forethought"},{"@type":"WebSite","@id":"https://forethought.ai/#website","url":"https://forethought.ai","name":"Forethought","publisher":{"@id":"https://forethought.ai/#organization"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://forethought.ai/partners/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://forethought.ai","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://forethought.ai/partners/","name":"Partners"}}]},{"@type":"WebPage","@id":"https://forethought.ai/partners/#webpage","url":"https://forethought.ai/partners/","name":"Partners | Forethought","datePublished":"2021-10-07T14:39:33-07:00","dateModified":"2024-04-02T13:52:23-07:00","isPartOf":{"@id":"https://forethought.ai/#website"},"inLanguage":"en-US","breadcrumb":{"@id":"https://forethought.ai/partners/#breadcrumb"}},{"@type":"Person","@id":"https://forethought.ai/author/it-services/","name":"IT Services","url":"https://forethought.ai/author/it-services/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/9e2c7ce31a351d965ab02283d4881048?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/9e2c7ce31a351d965ab02283d4881048?s=96&amp;d=mm&amp;r=g","caption":"IT Services","inLanguage":"en-US"},"worksFor":{"@id":"https://forethought.ai/#organization"}},{"@type":"Article","headline":"Partners | Forethought","datePublished":"2021-10-07T14:39:33-07:00","dateModified":"2024-04-02T13:52:23-07:00","author":{"@id":"https://forethought.ai/author/it-services/","name":"IT Services"},"publisher":{"@id":"https://forethought.ai/#organization"},"description":"Help us build the future of customer support. Apply to be a Elloe Partner today.","name":"Partners | Forethought","@id":"https://forethought.ai/partners/#richSnippet","isPartOf":{"@id":"https://forethought.ai/partners/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://forethought.ai/partners/#webpage"}}]}</script>
 
 <link rel="dns-prefetch" href="//code.jquery.com" />
 <link rel="dns-prefetch" href="//fonts.googleapis.com" />
@@ -161,7 +161,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <h1 class="acf-block-demo-form__title font-size-48 line-height-1-3 text-secondary c-mt-3">Let&#x2019;s build the future of customer support.</h1>&#13;
 &#13;
 &#13;
-<div class="acf-block-demo-form__content text-gray line-height-1-7 c-mt-4"><p>Make Forethought the foundation of your AI-powered customer support experience.</p>
+<div class="acf-block-demo-form__content text-gray line-height-1-7 c-mt-4"><p>Make Elloe the foundation of your AI-powered customer support experience.</p>
 </div>&#13;
 &#13;
 &#13;
@@ -197,7 +197,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="acf-block-demo-form__form-wrapper bg-white c-p-7 c-p-lg-5 border-radius-1-25 z-index-1 d-flex align-items-center justify-content-center flex-column form-with-title">&#13;
 &#13;
 &#13;
-<h2 class="font-size-18 font-family-base w-100 c-mb-only-3 fw-semibold" id="apply-to-be-a-foreth-1">Apply to be a Forethought partner.</h2>&#13;
+<h2 class="font-size-18 font-family-base w-100 c-mb-only-3 fw-semibold" id="apply-to-be-a-foreth-1">Apply to be a Elloe partner.</h2>&#13;
 &#13;
 &#13;
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript"></script>
@@ -402,7 +402,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 &#13;
 <section class="d-lg-none c-mt-only-6">&#13;
 <h3 class="font-family-base" id="strategic-partner-6">Strategic Partner</h3>&#13;
-<p class="c-mt-only-3 mb-0">The Strategic Partner Program is ideal for companies who want to leverage the power of a true AI, and use Forethought for intelligent input, categorization and content matching of data. This program is perfect for organizations where augmenting their strategies with other data elements is key to differentiating their business offering.</p>&#13;
+<p class="c-mt-only-3 mb-0">The Strategic Partner Program is ideal for companies who want to leverage the power of a true AI, and use Elloe for intelligent input, categorization and content matching of data. This program is perfect for organizations where augmenting their strategies with other data elements is key to differentiating their business offering.</p>&#13;
 </section>&#13;
 &#13;
 &#13;
@@ -455,7 +455,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 &#13;
 &#13;
 &#13;
-<div class="acf-block-cta-with-triangles__content entry-content mx-auto font-weight-medium c-mt-3 text-gray"><p>Forethought puts out frequent articles, webinars, e-books, and other resources on the topic of customer-centered AI and industry news and trends.</p>
+<div class="acf-block-cta-with-triangles__content entry-content mx-auto font-weight-medium c-mt-3 text-gray"><p>Elloe puts out frequent articles, webinars, e-books, and other resources on the topic of customer-centered AI and industry news and trends.</p>
 </div>&#13;
 &#13;
 &#13;
@@ -616,7 +616,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 &#13;
 <div class="acf-block-cta__content entry-content c-mt-5 text-gray-3">&#13;
 <p>Everyone hates traditional chatbots.</p>
-<p>See a demo of Forethought today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
+<p>See a demo of Elloe today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
 </div>&#13;
 &#13;
 &#13;

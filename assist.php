@@ -296,7 +296,7 @@ How we assist </h3>&#13;
 &#13;
 &#13;
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-6 c-mt-md-4">&#13;
-<p><span style="font-weight: 400;">Forethought enables agents to search any knowledge base or website right within the help desk and get relevant, AI-powered answers.</span></p>
+<p><span style="font-weight: 400;">Elloe enables agents to search any knowledge base or website right within the help desk and get relevant, AI-powered answers.</span></p>
 </div>&#13;
 &#13;
 &#13;
@@ -444,21 +444,21 @@ How we assist </h3>&#13;
 &#13;
 <section class="d-lg-none c-mt-only-6">&#13;
 <h3 class="font-family-base" id="complete-platform-po-7">Complete platform powered by generative AI</h3>&#13;
-<p class="c-mt-only-3 mb-0">Forethought infuses generative AI across the entire support ticket lifecycle&#x2014;boosting efficiency and the customer experience.</p>&#13;
+<p class="c-mt-only-3 mb-0">Elloe infuses generative AI across the entire support ticket lifecycle&#x2014;boosting efficiency and the customer experience.</p>&#13;
 </section>&#13;
 &#13;
 &#13;
 &#13;
 <section class="d-lg-none c-mt-only-6">&#13;
 <h3 class="font-family-base" id="trained-on-your-data-8">Trained On Your Data and LLMs</h3>&#13;
-<p class="c-mt-only-3 mb-0">Forethought learns from your data and from Large Language Models (LLMs), providing customized suggestions and insights.</p>&#13;
+<p class="c-mt-only-3 mb-0">Elloe learns from your data and from Large Language Models (LLMs), providing customized suggestions and insights.</p>&#13;
 </section>&#13;
 &#13;
 &#13;
 &#13;
 <section class="d-lg-none c-mt-only-6">&#13;
 <h3 class="font-family-base" id="crazy-fast-time-to-v-9">Crazy-Fast Time to Value</h3>&#13;
-<p class="c-mt-only-3 mb-0">Accelerate ROI with expert-led implementation that allows you to deploy Forethought in weeks instead of months.</p>&#13;
+<p class="c-mt-only-3 mb-0">Accelerate ROI with expert-led implementation that allows you to deploy Elloe in weeks instead of months.</p>&#13;
 </section>&#13;
 &#13;
 &#13;
@@ -540,7 +540,7 @@ How we assist </h3>&#13;
 &#13;
 &#13;
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-6 c-mt-md-4">&#13;
-<p>Get better customer service metrics with Forethought Discover. Learn what&#x2019;s working in your customer support interactions, and what needs improvement.</p>
+<p>Get better customer service metrics with Elloe Discover. Learn what&#x2019;s working in your customer support interactions, and what needs improvement.</p>
 </div>&#13;
 &#13;
 &#13;
@@ -787,7 +787,7 @@ How we assist </h3>&#13;
 &#13;
 &#13;
 &#13;
-<h2 class="font-size-36 line-height-1-3" id="forethought-a-13">&#x201C;Forethought Assist saves us time and increases our efficiency while improving our ability to provide fast and accurate answers to our clients.&#x201D;</h2>&#13;
+<h2 class="font-size-36 line-height-1-3" id="forethought-a-13">&#x201C;Elloe Assist saves us time and increases our efficiency while improving our ability to provide fast and accurate answers to our clients.&#x201D;</h2>&#13;
 &#13;
 &#13;
 &#13;
@@ -829,7 +829,7 @@ How we assist </h3>&#13;
 &#13;
 <div class="acf-block-cta__content entry-content c-mt-5 text-gray-3">&#13;
 <p>Everyone hates traditional chatbots.</p>
-<p>See a demo of Forethought today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
+<p>See a demo of Elloe today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
 </div>&#13;
 &#13;
 &#13;

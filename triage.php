@@ -298,7 +298,7 @@ How we triage </h3>&#13;
 &#13;
 &#13;
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-6 c-mt-md-4">&#13;
-<p><span style="font-weight: 400;">Forethought instantly tags </span><span style="font-weight: 400;">support </span><span style="font-weight: 400;">cases</span><span style="font-weight: 400;">, prioritizes critical ones, and then routes to the right team based on sentiment, intent, and language.</span></p>
+<p><span style="font-weight: 400;">Elloe instantly tags </span><span style="font-weight: 400;">support </span><span style="font-weight: 400;">cases</span><span style="font-weight: 400;">, prioritizes critical ones, and then routes to the right team based on sentiment, intent, and language.</span></p>
 </div>&#13;
 &#13;
 &#13;
@@ -482,21 +482,21 @@ How we triage </h3>&#13;
 &#13;
 <section class="d-lg-none c-mt-only-6">&#13;
 <h3 class="font-family-base" id="complete-platform-po-8">Complete platform powered by generative AI</h3>&#13;
-<p class="c-mt-only-3 mb-0">Forethought infuses generative AI across the entire support ticket lifecycle&#x2014;boosting efficiency and the customer experience.</p>&#13;
+<p class="c-mt-only-3 mb-0">Elloe infuses generative AI across the entire support ticket lifecycle&#x2014;boosting efficiency and the customer experience.</p>&#13;
 </section>&#13;
 &#13;
 &#13;
 &#13;
 <section class="d-lg-none c-mt-only-6">&#13;
 <h3 class="font-family-base" id="trained-on-your-data-9">Trained On Your Data and LLMs</h3>&#13;
-<p class="c-mt-only-3 mb-0">Forethought learns from your data and from Large Language Models (LLMs), providing customized suggestions and insights.</p>&#13;
+<p class="c-mt-only-3 mb-0">Elloe learns from your data and from Large Language Models (LLMs), providing customized suggestions and insights.</p>&#13;
 </section>&#13;
 &#13;
 &#13;
 &#13;
 <section class="d-lg-none c-mt-only-6">&#13;
 <h3 class="font-family-base" id="crazy-fast-time-to-v-10">Crazy-Fast Time to Value</h3>&#13;
-<p class="c-mt-only-3 mb-0">Accelerate ROI with expert-led implementation that allows you to deploy Forethought in weeks instead of months.</p>&#13;
+<p class="c-mt-only-3 mb-0">Accelerate ROI with expert-led implementation that allows you to deploy Elloe in weeks instead of months.</p>&#13;
 </section>&#13;
 &#13;
 &#13;
@@ -578,7 +578,7 @@ How we triage </h3>&#13;
 &#13;
 &#13;
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-6 c-mt-md-4">&#13;
-<p><span style="font-weight: 400;">Get better </span><span style="font-weight: 400;">customer service metrics </span><span style="font-weight: 400;">with Forethought Discover. Learn what&#x2019;s working in your customer support interactions, and what needs improvement.</span></p>
+<p><span style="font-weight: 400;">Get better </span><span style="font-weight: 400;">customer service metrics </span><span style="font-weight: 400;">with Elloe Discover. Learn what&#x2019;s working in your customer support interactions, and what needs improvement.</span></p>
 </div>&#13;
 &#13;
 &#13;
@@ -825,7 +825,7 @@ How we triage </h3>&#13;
 &#13;
 &#13;
 &#13;
-<h2 class="font-size-36 line-height-1-3" id="forethought-w-14">&#x201C;Forethought was quite a bit more accurate than the homegrown triage bot we&#x2019;d built, across the board, and we were pleasantly surprised that we&#x2019;d get return data back in seconds rather than minutes.&#x201D;</h2>&#13;
+<h2 class="font-size-36 line-height-1-3" id="forethought-w-14">&#x201C;Elloe was quite a bit more accurate than the homegrown triage bot we&#x2019;d built, across the board, and we were pleasantly surprised that we&#x2019;d get return data back in seconds rather than minutes.&#x201D;</h2>&#13;
 &#13;
 &#13;
 &#13;
@@ -1047,7 +1047,7 @@ What is a service desk triage? <div class="icon-toggle"></div>&#13;
 &#13;
 <div class="acf-block-cta__content entry-content c-mt-5 text-gray-3">&#13;
 <p>Everyone hates traditional chatbots.</p>
-<p>See a demo of Forethought today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
+<p>See a demo of Elloe today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
 </div>&#13;
 &#13;
 &#13;

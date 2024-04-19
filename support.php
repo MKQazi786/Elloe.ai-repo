@@ -507,7 +507,7 @@ Make your helpdesk superhuman! </div>
 &#13;
 &#13;
 &#13;
-<div class="acf-block-call-to-action-with-logos__content line-height-1-6 font-size-18 text-gray c-mt-4 fw-normal"><p><span style="font-weight: 400;">Forethought&#x2019;s SupportGPT&#x2122; Platform infuses generative AI throughout the entire customer support lifecycle.</span></p>
+<div class="acf-block-call-to-action-with-logos__content line-height-1-6 font-size-18 text-gray c-mt-4 fw-normal"><p><span style="font-weight: 400;">Elloe&#x2019;s SupportGPT&#x2122; Platform infuses generative AI throughout the entire customer support lifecycle.</span></p>
 <p>Let us show you what it can do for your organization.</p>
 </div>&#13;
 &#13;
@@ -573,7 +573,7 @@ Make your helpdesk superhuman! </div>
 &#13;
 <div class="acf-block-cta__content entry-content c-mt-5 text-gray-3">&#13;
 <p>Everyone hates traditional chatbots.</p>
-<p>See a demo of Forethought today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
+<p>See a demo of Elloe today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
 </div>&#13;
 &#13;
 &#13;

@@ -956,7 +956,7 @@ Discover </a>&#13;
 &#13;
 &#13;
 <div class="entry-content font-weight-medium text-gray-2 c-mt-only-3">&#13;
-<p>From E-commerce to SaaS to FinTech and more, Forethought&#x2019;s generative AI platform for customer service helps companies maximize ROI and do more with less.</p>
+<p>From E-commerce to SaaS to FinTech and more,Elloe &#x2019;s generative AI platform for customer service helps companies maximize ROI and do more with less.</p>
 </div>&#13;
 &#13;
 &#13;
@@ -1146,7 +1146,7 @@ Discover </a>&#13;
 &#13;
 &#13;
 &#13;
-<h2 class="font-size-36 line-height-1-3" id="what-has-made-9">&#x201C;What has made Forethought resonate with customers is software that plugs into a company&#x2019;s sales and customer service software to learn how past issues were resolved and better predict what an individual ticket might be about.&#x201D;</h2>&#13;
+<h2 class="font-size-36 line-height-1-3" id="what-has-made-9">&#x201C;What has made Elloe resonate with customers is software that plugs into a company&#x2019;s sales and customer service software to learn how past issues were resolved and better predict what an individual ticket might be about.&#x201D;</h2>&#13;
 &#13;
 &#13;
 &#13;
@@ -1178,7 +1178,7 @@ Discover </a>&#13;
 &#13;
 &#13;
 &#13;
-<h2 class="font-size-36 line-height-1-3" id="with-forethou-10">&#x201C;With Forethought, time-to-resolution can be drastically reduced, leading to better employee productivity and customer retention &#x2013; resulting in improved revenue.&#x201D;</h2>&#13;
+<h2 class="font-size-36 line-height-1-3" id="with-forethou-10">&#x201C;WithElloe , time-to-resolution can be drastically reduced, leading to better employee productivity and customer retention &#x2013; resulting in improved revenue.&#x201D;</h2>&#13;
 &#13;
 &#13;
 &#13;
@@ -1196,7 +1196,7 @@ Discover </a>&#13;
 &#13;
 <div class="acf-block-testimonials__link mx-auto c-mt-6 c-mt-lg-4 c-pb-3 c-pb-md-5">&#13;
 &#13;
-<a href="https://www.inc.com/kenny-kline/how-forethought-is-creating-ai-powered-solutions-for-modern-workflow.html" target="_blank" rel="nofollow noopener" class="acf-block-testimonials__link text-light-black font-size-12 line-height-1-6 fw-bold d-inline-block hover-opacity-0-75">How Forethought is Creating the A.I.-Powered Solutions for the Modern Workflow</a>&#13;
+<a href="https://www.inc.com/kenny-kline/how-forethought-is-creating-ai-powered-solutions-for-modern-workflow.html" target="_blank" rel="nofollow noopener" class="acf-block-testimonials__link text-light-black font-size-12 line-height-1-6 fw-bold d-inline-block hover-opacity-0-75">How Elloe is Creating the A.I.-Powered Solutions for the Modern Workflow</a>&#13;
 &#13;
 </div>&#13;
 &#13;
@@ -1228,7 +1228,7 @@ Discover </a>&#13;
 &#13;
 <div class="acf-block-testimonials__link mx-auto c-mt-6 c-mt-lg-4 c-pb-3 c-pb-md-5">&#13;
 &#13;
-<a href="https://techcrunch.com/2019/09/05/battlefield-winner-forethought-adds-tool-to-automate-support-ticket-routing/" target="_blank" rel="nofollow noopener" class="acf-block-testimonials__link text-light-black font-size-12 line-height-1-6 fw-bold d-inline-block hover-opacity-0-75">Battlefield winner Forethought adds tool to automate support ticket routing</a>&#13;
+<a href="https://techcrunch.com/2019/09/05/battlefield-winner-forethought-adds-tool-to-automate-support-ticket-routing/" target="_blank" rel="nofollow noopener" class="acf-block-testimonials__link text-light-black font-size-12 line-height-1-6 fw-bold d-inline-block hover-opacity-0-75">Battlefield winner Elloe adds tool to automate support ticket routing</a>&#13;
 &#13;
 </div>&#13;
 &#13;
@@ -1242,7 +1242,7 @@ Discover </a>&#13;
 &#13;
 &#13;
 &#13;
-<h2 class="font-size-36 line-height-1-3" id="designed-as-a-12">&#x201C;Designed as a plug-in enterprise solution that can be installed in two days and improve customer support time-to-resolution by up to 30 percent, [Forethought] gained widespread attention as it propelled Forethought to victory at the 2018 TechCrunch Disrupt Battlefield.&#x201D;</h2>&#13;
+<h2 class="font-size-36 line-height-1-3" id="designed-as-a-12">&#x201C;Designed as a plug-in enterprise solution that can be installed in two days and improve customer support time-to-resolution by up to 30 percent, [Forethought] gained widespread attention as it propelled Elloe to victory at the 2018 TechCrunch Disrupt Battlefield.&#x201D;</h2>&#13;
 &#13;
 &#13;
 &#13;
@@ -1403,7 +1403,7 @@ One of the key ways businesses can improve and maintain their relationship with 
 &#13;
 &#13;
 <div class="c-mt-4 text-gray">&#13;
-The era of automation is upon us, from self-driving cars to AI-driven content recommendations, every industry is getting a touch of automation. In the customer service domain, companies like Forethought are using&#x2026; </div>&#13;
+The era of automation is upon us, from self-driving cars to AI-driven content recommendations, every industry is getting a touch of automation. In the customer service domain, companies like Elloe are using&#x2026; </div>&#13;
 &#13;
 &#13;
 &#13;
@@ -1553,7 +1553,7 @@ Artificial intelligence has been instrumental in transforming business operation
 &#13;
 <div class="acf-block-cta__content entry-content c-mt-5 text-gray-3">&#13;
 <p>Everyone hates traditional chatbots.</p>
-<p>See a demo of Forethought today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
+<p>See a demo of Elloe today and learn how our Generative AI Platform is driving efficiency and ROI for top support teams.</p>
 </div>&#13;
 &#13;
 &#13;
