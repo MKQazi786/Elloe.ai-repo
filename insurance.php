@@ -1,4 +1,5 @@
-<?php /* Template name: industries */ ?>
+<?php /* Template name: insurance */ ?>
+
 
 <!doctype html>
 <html lang="en-US" prefix="og: https://ogp.me/ns#" style="scroll-behavior: smooth;">
@@ -6,9 +7,10 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<link rel="shortcut icon" type="image" href="http://www.elloe.ai/wp-content/uploads/2024/04/full.png"><meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="shortcut icon" type="image" href="http://www.elloe.ai/wp-content/uploads/2024/04/full.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Forethought">
+<meta name="apple-mobile-web-app-title" content="Elloe">
 <meta name="application-name" content="Elloe">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="msapplication-TileColor" content="%23ffffff">
@@ -59,25 +61,25 @@ s.parentNode.insertBefore(b, s);})();
 <script type="text/javascript" src="https://app.termly.io/resource-blocker/1f6592ca-d72a-4c4a-ba3a-42c79c05a336" defer>
 			</script>
 
-<title>Industry Use Cases and Solutions | Elloe</title>
-<meta name="description" content="See how Elloe goes beyond traditional conversational AI and chatbots to provide AI-powered customer service for any industry." />
+<title>Customer Service AI for Insurance Companies | Elloe</title>
+<meta name="description" content="Provide your customers self-service options and free up agents to focus on the most urgent insurance cases." />
 <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
-<link rel="canonical" href="https://elloe.ai/industries/" />
+<link rel="canonical" href="https://www.elloe.ai/insurance/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Industry Use Cases and Solutions | Elloe" />
-<meta property="og:description" content="See how Elloe goes beyond traditional conversational AI and chatbots to provide AI-powered customer service for any industry." />
-<meta property="og:url" content="https://elloe.ai/industries/" />
+<meta property="og:title" content="Customer Service AI for Insurance Companies | Elloe" />
+<meta property="og:description" content="Provide your customers self-service options and free up agents to focus on the most urgent insurance cases." />
+<meta property="og:url" content="https://www.elloe.ai/insurance/" />
 <meta property="og:site_name" content="Elloe" />
-<meta property="og:updated_time" content="2022-07-28T05:55:26-07:00" />
-<meta property="article:published_time" content="2021-10-08T15:22:22-07:00" />
-<meta property="article:modified_time" content="2022-07-28T05:55:26-07:00" />
+<meta property="og:updated_time" content="2022-07-28T06:06:17-07:00" />
+<meta property="article:published_time" content="2021-10-11T17:40:15-07:00" />
+<meta property="article:modified_time" content="2022-07-28T06:06:17-07:00" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Industry Use Cases and Solutions | Elloe" />
-<meta name="twitter:description" content="See how Elloe goes beyond traditional conversational AI and chatbots to provide AI-powered customer service for any industry." />
+<meta name="twitter:title" content="Customer Service AI for Insurance Companies | Elloe" />
+<meta name="twitter:description" content="Provide your customers self-service options and free up agents to focus on the most urgent insurance cases." />
 <meta name="twitter:label1" content="Time to read" />
 <meta name="twitter:data1" content="Less than a minute" />
-<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://forethought.ai/#organization","name":"Forethought"},{"@type":"WebSite","@id":"https://forethought.ai/#website","url":"https://forethought.ai","name":"Forethought","publisher":{"@id":"https://forethought.ai/#organization"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://forethought.ai/industries/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://forethought.ai","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://forethought.ai/industries/","name":"Industries"}}]},{"@type":"WebPage","@id":"https://forethought.ai/industries/#webpage","url":"https://forethought.ai/industries/","name":"Industry Use Cases and Solutions | Forethought","datePublished":"2021-10-08T15:22:22-07:00","dateModified":"2022-07-28T05:55:26-07:00","isPartOf":{"@id":"https://forethought.ai/#website"},"inLanguage":"en-US","breadcrumb":{"@id":"https://forethought.ai/industries/#breadcrumb"}},{"@type":"Person","@id":"https://forethought.ai/author/it-services/","name":"IT Services","url":"https://forethought.ai/author/it-services/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/9e2c7ce31a351d965ab02283d4881048?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/9e2c7ce31a351d965ab02283d4881048?s=96&amp;d=mm&amp;r=g","caption":"IT Services","inLanguage":"en-US"},"worksFor":{"@id":"https://forethought.ai/#organization"}},{"@type":"Article","headline":"Industry Use Cases and Solutions | Forethought","datePublished":"2021-10-08T15:22:22-07:00","dateModified":"2022-07-28T05:55:26-07:00","author":{"@id":"https://forethought.ai/author/it-services/","name":"IT Services"},"publisher":{"@id":"https://forethought.ai/#organization"},"description":"See how Forethought goes beyond traditional conversational AI and chatbots to provide AI-powered customer service for any industry.","name":"Industry Use Cases and Solutions | Forethought","@id":"https://forethought.ai/industries/#richSnippet","isPartOf":{"@id":"https://forethought.ai/industries/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://forethought.ai/industries/#webpage"}}]}</script>
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://forethought.ai/#organization","name":"Forethought"},{"@type":"WebSite","@id":"https://forethought.ai/#website","url":"https://forethought.ai","name":"Forethought","publisher":{"@id":"https://forethought.ai/#organization"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://forethought.ai/industries/insurance/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://forethought.ai","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://forethought.ai/industries/","name":"Industries"}},{"@type":"ListItem","position":"3","item":{"@id":"https://forethought.ai/industries/insurance/","name":"Insurance"}}]},{"@type":"WebPage","@id":"https://forethought.ai/industries/insurance/#webpage","url":"https://forethought.ai/industries/insurance/","name":"Customer Service AI for Insurance Companies | Forethought","datePublished":"2021-10-11T17:40:15-07:00","dateModified":"2022-07-28T06:06:17-07:00","isPartOf":{"@id":"https://forethought.ai/#website"},"inLanguage":"en-US","breadcrumb":{"@id":"https://forethought.ai/industries/insurance/#breadcrumb"}},{"@type":"Person","@id":"https://forethought.ai/author/it-services/","name":"IT Services","url":"https://forethought.ai/author/it-services/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/9e2c7ce31a351d965ab02283d4881048?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/9e2c7ce31a351d965ab02283d4881048?s=96&amp;d=mm&amp;r=g","caption":"IT Services","inLanguage":"en-US"},"worksFor":{"@id":"https://forethought.ai/#organization"}},{"@type":"Article","headline":"Customer Service AI for Insurance Companies | Forethought","datePublished":"2021-10-11T17:40:15-07:00","dateModified":"2022-07-28T06:06:17-07:00","author":{"@id":"https://forethought.ai/author/it-services/","name":"IT Services"},"publisher":{"@id":"https://forethought.ai/#organization"},"description":"Provide your customers self-service options and free up agents to focus on the most urgent insurance cases.","name":"Customer Service AI for Insurance Companies | Forethought","@id":"https://forethought.ai/industries/insurance/#richSnippet","isPartOf":{"@id":"https://forethought.ai/industries/insurance/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://forethought.ai/industries/insurance/#webpage"}}]}</script>
 
 <link rel="dns-prefetch" href="//code.jquery.com" />
 <link rel="dns-prefetch" href="//fonts.googleapis.com" />
@@ -116,12 +118,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="stylesheet" id="vendor-styles-css" href="https://forethought.ai/wp-content/themes/forethought/dist/vendor.css?ver=240418-105451" media="all" />
 <script data-minify="1" src="https://forethought.ai/wp-content/cache/min/1/wp-content/themes/forethought/dist/default_page.bundle.js?ver=1713460807" id="default-page-scripts-js" defer></script>
 <script data-minify="1" src="https://forethought.ai/wp-content/cache/min/1/wp-content/themes/forethought/dist/vendor.bundle.js?ver=1713460807" id="vendor-scripts-js" defer></script>
-<link rel="https://api.w.org/" href="https://forethought.ai/wp-json/" /><link rel="alternate" type="application/json" href="https://forethought.ai/wp-json/wp/v2/pages/268" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://forethought.ai/xmlrpc.php?rsd" />
-<link rel="shortlink" href="https://forethought.ai/?p=268" />
-<link rel="alternate" type="application/json+oembed" href="https://forethought.ai/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fforethought.ai%2Findustries%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://forethought.ai/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fforethought.ai%2Findustries%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://forethought.ai/wp-json/" /><link rel="alternate" type="application/json" href="https://forethought.ai/wp-json/wp/v2/pages/559" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://forethought.ai/xmlrpc.php?rsd" />
+<link rel="shortlink" href="https://forethought.ai/?p=559" />
+<link rel="alternate" type="application/json+oembed" href="https://forethought.ai/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fforethought.ai%2Findustries%2Finsurance%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://forethought.ai/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fforethought.ai%2Findustries%2Finsurance%2F&#038;format=xml" />
 </head>
-<body class="page-template-default page page-id-268 page-parent">
+<body class="page-template-default page page-id-559 page-child parent-pageid-268">
 <img width="99999" height="99999" alt class="hide" style="pointer-events: none; position: absolute; top: 0; left: 0; width: 99vw; height: 99vh; max-width: 99vw; max-height: 99vh;" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+">
 <!--[if IE]>
             <div class="alert alert-ie" role="alert">
@@ -139,269 +141,110 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <?php 
   include 'header.php';
   ?>
-<main id="main" class="overflow-hidden">
-<section class="hero-section hero-section-14 position-relative">
+<main id="main">
+<section class="hero-section hero-section-15 position-relative">
 <div class="container">
 <div class="row">
-<div class="hero-section-14__content-wrapper col-lg-12">
-<h1 class="hero-section-14__title text-center mx-auto">AI-first customer service for any industry.</h1>
-<div class="hero-section-14__content entry-content text-gray fw-medium mx-auto c-mt-5 line-height-1-6 text-center">
-<span style="font-weight: 400;">Elloe AI delivers a seamless, enterprise-scale platform that transcends the traditional conversational AI of a chatbot to empower service teams and delight customers.</span> </div>
-</div>
-</div>
-</div>
-<div class="hero-section-14__decors-wrapper position-absolute fill-the-whole-space w-100 h-100 m-auto z-index-minus-1">
-<svg class="hero-section-14__circle dash-animation position-absolute mx-auto z-index-minus-1" viewBox="0 0 1440 725" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="722" cy="-33" r="757.5" stroke="#C4C4C4" stroke-dasharray="8 8" />
+<div class="hero-section-15__content-wrapper col-lg-12 position-relative text-center">
+<p class="text-uppercase font-size-14 fw-semibold letter-spacing-200 c-mb- line-height-1-4">Insurance</p>
+<h1 class="hero-section-15__title h1-small mx-auto text-center line-height-1-25">Get insurance customers the answers they need with AI.</h1>
+<div class="hero-section-15__content entry-content text-gray fw-medium mx-auto c-mt-5 line-height-1-6 text-center">
+Increasingly digital and savvy customers want the right answers, without the wait. Elloe AI enables them to self-serve for simple requests, and gets complex cases to the right agent, fast. </div>
+<a href="https://www.elloe.ai/request-demo/" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient c-mt-5">View demo</a>
+<svg class="hero-section-15__decor-1 position-absolute" viewBox="0 0 200 199" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M100 199C154.869 199 200 154.095 200 99.5C200 44.9053 154.869 -1.97274e-06 100 -4.37114e-06C100 66.3463 100 132.654 100 199Z" fill="#7B33FB" />
+<path d="M7.62939e-06 199C54.869 199 100 154.095 100 99.5C100 44.9053 54.869 -1.97274e-06 1.6328e-05 -4.37114e-06C1.34279e-05 66.3463 1.05295e-05 132.654 7.62939e-06 199Z" fill="#2D0968" />
 </svg>
-<svg class="hero-section-14__decor-1 position-absolute d-none d-lg-block" viewBox="0 0 389 351" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#hero-14-1)">
-<rect x="334.566" y="367.68" width="465.643" height="112.828" rx="56.4138" transform="rotate(-139.403 334.566 367.68)" fill="url(#hero-14-2)" />
-</g>
+<svg class="hero-section-15__decor-2 position-absolute d-none d-lg-block" viewBox="0 0 298 688" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M45 643L45 519.948C45 486.811 71.8629 459.948 105 459.948H193C226.137 459.948 253 433.085 253 399.948L253 -110" stroke="url(#hero-15)" stroke-width="90" stroke-linecap="round" stroke-linejoin="round" />
 <defs>
-<filter id="hero-14-1" x="0.130859" y="0.128906" width="388.725" height="350.418" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix" />
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
-<feOffset dy="2" />
-<feGaussianBlur stdDeviation="2" />
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_903:5984" />
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_903:5984" result="shape" />
-</filter>
-<linearGradient id="hero-14-2" x1="791.966" y1="422.29" x2="337.958" y2="427.519" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#FF70C6" />
-<stop offset="1" stop-color="#EC4A77" />
+<linearGradient id="hero-15" x1="249.318" y1="254.465" x2="46.4882" y2="254.622" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F6C043" />
+<stop offset="1" stop-color="#FF9634" />
 </linearGradient>
 </defs>
 </svg>
-<svg class="hero-section-14__decor-2 position-absolute mx-auto d-none d-md-block" viewBox="0 0 451 638" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d_1731:2005)">
-<rect x="396.762" y="638" width="296.066" height="112.828" rx="56.4138" transform="rotate(-139.403 396.762 638)" fill="url(#paint0_linear_1731:2005)" />
-</g>
-<g filter="url(#filter1_d_1731:2005)">
-<circle cx="145.174" cy="341.173" r="55.7781" transform="rotate(37.3094 145.174 341.173)" fill="#6BDAB6" />
-</g>
-<g filter="url(#filter2_d_1731:2005)">
-<path d="M117.717 42.5005L418.443 299.089C433.669 312.081 436.531 334.515 425.054 350.913C411.911 369.691 385.452 373.067 368.016 358.19L67.2906 101.601C52.0641 88.6097 49.2022 66.1749 60.6794 49.7767C73.8221 30.999 100.281 27.6236 117.717 42.5005Z" stroke="url(#paint1_linear_1731:2005)" stroke-width="20" />
-</g>
-<defs>
-<filter id="filter0_d_1731:2005" x="191.086" y="380.801" width="259.965" height="240.066" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix" />
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
-<feOffset dy="2" />
-<feGaussianBlur stdDeviation="2" />
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1731:2005" />
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1731:2005" result="shape" />
-</filter>
-<filter id="filter1_d_1731:2005" x="79.3906" y="279.391" width="131.562" height="131.562" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix" />
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
-<feMorphology radius="2" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_1731:2005" />
-<feOffset dy="4" />
-<feGaussianBlur stdDeviation="4" />
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0" />
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1731:2005" />
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1731:2005" result="shape" />
-</filter>
-<filter id="filter2_d_1731:2005" x="39.6562" y="21.2031" width="406.422" height="362.285" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix" />
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
-<feOffset dy="2" />
-<feGaussianBlur stdDeviation="2" />
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1731:2005" />
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1731:2005" result="shape" />
-</filter>
-<linearGradient id="paint0_linear_1731:2005" x1="687.587" y1="692.611" x2="398.895" y2="694.724" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#6BDAB6" />
-<stop offset="1" stop-color="#66E0F6" />
-</linearGradient>
-<linearGradient id="paint1_linear_1731:2005" x1="42.4138" y1="58.4343" x2="446.668" y2="93.6922" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#3866F5" />
-<stop offset="1" stop-color="#BD00FF" />
-</linearGradient>
-</defs>
-</svg>
-<svg class="hero-section-14__decor-3 position-absolute d-md-none" width="342" height="375" viewBox="0 0 342 375" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#hero-14-3-1)">
-<rect x="329.762" y="375" width="296.066" height="112.828" rx="56.4138" transform="rotate(-139.403 329.762 375)" fill="url(#hero-14-3-3)" />
-</g>
-<g filter="url(#hero-14-3-2)">
-<circle cx="78.1735" cy="78.1727" r="55.7781" transform="rotate(37.3094 78.1735 78.1727)" fill="#6BDAB6" />
-</g>
-<defs>
-<filter id="hero-14-3-1" x="124.086" y="117.801" width="259.965" height="240.066" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix" />
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
-<feOffset dy="2" />
-<feGaussianBlur stdDeviation="2" />
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_903:5980" />
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_903:5980" result="shape" />
-</filter>
-<filter id="hero-14-3-2" x="12.3906" y="16.3906" width="131.562" height="131.562" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix" />
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
-<feMorphology radius="2" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_903:5980" />
-<feOffset dy="4" />
-<feGaussianBlur stdDeviation="4" />
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0" />
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_903:5980" />
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_903:5980" result="shape" />
-</filter>
-<linearGradient id="hero-14-3-3" x1="620.587" y1="429.611" x2="331.895" y2="431.724" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#6BDAB6" />
-<stop offset="1" stop-color="#66E0F6" />
-</linearGradient>
-</defs>
-</svg>
+</div>
+</div>
 </div>
 </section>
 <div class="container"><div class="row"><div class="col-12 mx-auto"><div class="entry-content">&#13;
-&#13;
 </div></div></div></div>&#13;
-<section id="acf-block-companies-list-block_616549ee83e48" class="acf-block-companies-list c-mt-9 c-pb-10" data-anim="fade-up">&#13;
+<section id="acf-block-list-with-animated-icon-block_6177b0b14d8a0" class="acf-block-list-with-animated-icon c-pt-9 c-pb-lg-1" data-anim="fade-up">&#13;
 <div class="container">&#13;
-<div class="row">&#13;
-<div class="col-lg-12">&#13;
+<div class="row justify-content-lg-between justify-content-center align-items-start">&#13;
+<div class="col-lg-6">&#13;
+<div class="acf-block-list-with-animated-icon__content">&#13;
 &#13;
 &#13;
-<h2 class="acf-block-companies-list__title h3 text-center mx-auto" id="we-evolve-your-ai-cu-1">We evolve your AI customer service beyond a chatbot. </h2>&#13;
 &#13;
+<h2 class="font-size-36 line-height-1-4 c-pt-3 c-pb-6 c-pb-xl-4" id="forethought-ai-enabl-1">Elloe AI enables self-service and frees agents to focus on the most urgent cases, ensuring higher customer satisfaction.</h2>&#13;
+&#13;
+&#13;
+&#13;
+<ul class="acf-block-list-with-animated-icon__list acf-block-list-with-animated-icon__list--pink-gradient font-size-18 list-unstyled line-height-1-4">&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+<li class="font-size-18 line-height-1-7 text-secondary position-relative c-mb-3 c-mb-xl-5" data-anim="fade-up">Solve common customer issues automatically </li>&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+<li class="font-size-18 line-height-1-7 text-secondary position-relative c-mb-3 c-mb-xl-5" data-anim="fade-up">Accurately label + route tickets </li>&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+<li class="font-size-18 line-height-1-7 text-secondary position-relative c-mb-3 c-mb-xl-5" data-anim="fade-up">Identify and discard spam efficiently </li>&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+<li class="font-size-18 line-height-1-7 text-secondary position-relative c-mb-3 c-mb-xl-5" data-anim="fade-up">Live Chat agents with complex cases </li>&#13;
+&#13;
+&#13;
+&#13;
+</ul>&#13;
 &#13;
 &#13;
 </div>&#13;
-&#13;
-&#13;
-<div class="acf-block-companies-list__companies c-my-2">&#13;
-<div class="row">&#13;
-&#13;
-&#13;
-<div class="col-md-3 col-sm-6 c-mt-9" data-anim="fade-up">&#13;
-&#13;
-<a href="https://elloe.ai/education/" target="_self" class="single-company c-py-6 c-py-md-5 d-block js-single-company">&#13;
-&#13;
-&#13;
-<div class="single-company__logo d-flex align-items-center justify-content-center position-relative single-company__logo--with-styles" style="--image-width: 4.25rem; --image-mobile-width: 3.4rem;">&#13;
-&#13;
-<img decoding="async" src="https://forethought.ai/wp-content/uploads/2021/10/education.svg" class="lazyload adjustable-element js-single-company-icon" alt data-lazy="true"> <div class="single-company__icon position-absolute m-auto js-single-company-animation d-none" data-path="https://forethought.ai/wp-content/uploads/2021/10/Education_IconPurple_v01.json" data-loop="false"></div>&#13;
 </div>&#13;
 &#13;
 &#13;
+<div class="col-lg-6 d-flex justify-content-center justify-content-lg-end c-mt-8 c-mt-lg-0">&#13;
+&#13;
+<div class="acf-block-list-with-animated-icon__image-with-icon position-relative">&#13;
+&#13;
+<svg width="443" height="350" viewbox="0 0 443 350" fill="none" xmlns="http://www.w3.org/2000/svg">&#13;
+<circle cx="175" cy="175" r="174.5" stroke="#C4C4C4" stroke-dasharray="8 8"></circle>&#13;
+<circle cx="175" cy="175" r="118.5" stroke="#C4C4C4" stroke-dasharray="8 8"></circle>&#13;
+<circle cx="368.099" cy="166.097" r="60.5" transform="rotate(75 368.099 166.097)" fill="#66E0F6"></circle>&#13;
+<circle cx="292.129" cy="40.13" r="29.5" transform="rotate(75 292.129 40.13)" fill="#6BDAB6"></circle>&#13;
+<g filter="url(#svg_ff3a0a81-cbec-4821-bd57-97423bad66f5_filter0_d_1485img__decor-circles)">&#13;
+<circle cx="175" cy="175" r="52" fill="white"></circle>&#13;
+</g>&#13;
+<defs>&#13;
+<filter id="svg_ff3a0a81-cbec-4821-bd57-97423bad66f5_filter0_d_1485img__decor-circles" x="113" y="117" width="124" height="124" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">&#13;
+<feflood flood-opacity="0" result="BackgroundImageFix"></feflood>&#13;
+<fecolormatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></fecolormatrix>&#13;
+<femorphology radius="2" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_1485img__decor-circles"></femorphology>&#13;
+<feoffset dy="4"></feoffset>&#13;
+<fegaussianblur stddeviation="4"></fegaussianblur>&#13;
+<fecolormatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"></fecolormatrix>&#13;
+<feblend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1485img__decor-circles"></feblend>&#13;
+<feblend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1485img__decor-circles" result="shape"></feblend>&#13;
+</filter>&#13;
+</defs>&#13;
+</svg>&#13;
+&#13;
+&#13;
+<div class="acf-block-list-with-animated-icon__icon js-lottie position-absolute m-auto" data-path="https://forethought.ai/wp-content/uploads/2021/10/Insurance_IconPurple_v01.json" data-loop="false" data-animateonscroll></div>&#13;
 &#13;
-<h2 class="font-size-18 font-family-base fw-semibold text-secondary c-pl-only-4 text-center" id="-2"><span class="single-company__title--link position-relative c-mr-only-4 d-inline-block">Education</span></h2>&#13;
-&#13;
-&#13;
-&#13;
-&#13;
-</a>&#13;
-</div>&#13;
-&#13;
-&#13;
-<div class="col-md-3 col-sm-6 c-mt-9" data-anim="fade-up">&#13;
-&#13;
-<a href="https://elloe.ai/financial-services/" target="_self" class="single-company c-py-6 c-py-md-5 d-block js-single-company">&#13;
-&#13;
-&#13;
-<div class="single-company__logo d-flex align-items-center justify-content-center position-relative single-company__logo--with-styles" style="--image-width: 4.25rem; --image-mobile-width: 3.4rem;">&#13;
-&#13;
-<img decoding="async" src="https://forethought.ai/wp-content/uploads/2021/10/financial-services.svg" class="lazyload adjustable-element js-single-company-icon" alt data-lazy="true"> <div class="single-company__icon position-absolute m-auto js-single-company-animation d-none" data-path="https://forethought.ai/wp-content/uploads/2021/10/Financial_IconPurple_v01.json" data-loop="false"></div>&#13;
-</div>&#13;
-&#13;
-&#13;
-&#13;
-<h2 class="font-size-18 font-family-base fw-semibold text-secondary c-pl-only-4 text-center" id="-3"><span class="single-company__title--link position-relative c-mr-only-4 d-inline-block">Financial services</span></h2>&#13;
-&#13;
-&#13;
-&#13;
-&#13;
-</a>&#13;
-</div>&#13;
-&#13;
-&#13;
-<div class="col-md-3 col-sm-6 c-mt-9" data-anim="fade-up">&#13;
-&#13;
-<a href="https://elloe.ai/retail-and-e-commerce/" target="_self" class="single-company c-py-6 c-py-md-5 d-block js-single-company">&#13;
-&#13;
-&#13;
-<div class="single-company__logo d-flex align-items-center justify-content-center position-relative single-company__logo--with-styles" style="--image-width: 4.25rem; --image-mobile-width: 3.4rem;">&#13;
-&#13;
-<img decoding="async" src="https://forethought.ai/wp-content/uploads/2021/10/retail.svg" class="lazyload adjustable-element js-single-company-icon" alt data-lazy="true"> <div class="single-company__icon position-absolute m-auto js-single-company-animation d-none" data-path="https://forethought.ai/wp-content/uploads/2021/10/Retail_IconPurple_v01.json" data-loop="false"></div>&#13;
-</div>&#13;
-&#13;
-&#13;
-&#13;
-<h2 class="font-size-18 font-family-base fw-semibold text-secondary c-pl-only-4 text-center" id="-4"><span class="single-company__title--link position-relative c-mr-only-4 d-inline-block">Retail &amp; e-commerce</span></h2>&#13;
-&#13;
-&#13;
-&#13;
-&#13;
-</a>&#13;
-</div>&#13;
-&#13;
-&#13;
-<div class="col-md-3 col-sm-6 c-mt-9" data-anim="fade-up">&#13;
-&#13;
-<a href="https://elloe.ai/saas/" target="_self" class="single-company c-py-6 c-py-md-5 d-block js-single-company">&#13;
-&#13;
-&#13;
-<div class="single-company__logo d-flex align-items-center justify-content-center position-relative single-company__logo--with-styles" style="--image-width: 4.25rem; --image-mobile-width: 3.4rem;">&#13;
-&#13;
-<img decoding="async" src="https://forethought.ai/wp-content/uploads/2021/10/saas.svg" class="lazyload adjustable-element js-single-company-icon" alt data-lazy="true"> <div class="single-company__icon position-absolute m-auto js-single-company-animation d-none" data-path="https://forethought.ai/wp-content/uploads/2021/10/SaaS_IconPurple_v01.json" data-loop="false"></div>&#13;
-</div>&#13;
-&#13;
-&#13;
-&#13;
-<h2 class="font-size-18 font-family-base fw-semibold text-secondary c-pl-only-4 text-center" id="-5"><span class="single-company__title--link position-relative c-mr-only-4 d-inline-block">SaaS</span></h2>&#13;
-&#13;
-&#13;
-&#13;
-&#13;
-</a>&#13;
-</div>&#13;
-&#13;
-&#13;
-<div class="col-md-3 col-sm-6 c-mt-9" data-anim="fade-up">&#13;
-&#13;
-<a href="https://elloe.ai/travel/" target="_self" class="single-company c-py-6 c-py-md-5 d-block js-single-company">&#13;
-&#13;
-&#13;
-<div class="single-company__logo d-flex align-items-center justify-content-center position-relative single-company__logo--with-styles" style="--image-width: 4.25rem; --image-mobile-width: 3.4rem;">&#13;
-&#13;
-<img decoding="async" src="https://forethought.ai/wp-content/uploads/2021/10/travel.svg" class="lazyload adjustable-element js-single-company-icon" alt data-lazy="true"> <div class="single-company__icon position-absolute m-auto js-single-company-animation d-none" data-path="https://forethought.ai/wp-content/uploads/2021/10/Travel_IconPurple_v01.json" data-loop="false"></div>&#13;
-</div>&#13;
-&#13;
-&#13;
-&#13;
-<h2 class="font-size-18 font-family-base fw-semibold text-secondary c-pl-only-4 text-center" id="-6"><span class="single-company__title--link position-relative c-mr-only-4 d-inline-block">Travel</span></h2>&#13;
-&#13;
-&#13;
-&#13;
-&#13;
-</a>&#13;
-</div>&#13;
-&#13;
-&#13;
-<div class="col-md-3 col-sm-6 c-mt-9" data-anim="fade-up">&#13;
-&#13;
-<a href="https://elloe.ai/insurance/" target="_self" class="single-company c-py-6 c-py-md-5 d-block js-single-company">&#13;
-&#13;
-&#13;
-<div class="single-company__logo d-flex align-items-center justify-content-center position-relative single-company__logo--with-styles" style="--image-width: 4.25rem; --image-mobile-width: 3.4rem;">&#13;
-&#13;
-<img decoding="async" src="https://forethought.ai/wp-content/uploads/2021/10/insurance-1.svg" class="lazyload adjustable-element js-single-company-icon" alt data-lazy="true"> <div class="single-company__icon position-absolute m-auto js-single-company-animation d-none" data-path="https://forethought.ai/wp-content/uploads/2021/10/Insurance_IconPurple_v01.json" data-loop="false"></div>&#13;
-</div>&#13;
-&#13;
-&#13;
-&#13;
-<h2 class="font-size-18 font-family-base fw-semibold text-secondary c-pl-only-4 text-center" id="-7"><span class="single-company__title--link position-relative c-mr-only-4 d-inline-block">Insurance</span></h2>&#13;
-&#13;
-&#13;
-&#13;
-&#13;
-</a>&#13;
-</div>&#13;
 &#13;
 </div>&#13;
 &#13;
@@ -410,11 +253,85 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </div>&#13;
 </section>&#13;
 &#13;
+&#13;
+&#13;
+<div id="acf-block-text-with-heading-block_61793bdda6529" class="acf-block-text-with-heading c-pt-11 c-pt-lg-6 c-pb-8 c-pb-lg-6" data-anim="fade-up">&#13;
+<div class="container position-relative">&#13;
+&#13;
+<div class="row">&#13;
+<div class="col-12 col-lg-7 mx-auto position-relative c-pt-10 c-py-lg-0">&#13;
+<div class="acf-block-text-with-heading__bg-image-top position-absolute">&#13;
+&#13;
+<img decoding="async" src="https://forethought.ai/wp-content/themes/forethought/images/img__circle-red-gradient.svg" data-lazy="true" class="lazyload d-block">&#13;
+&#13;
+</div>&#13;
+&#13;
+<div class="acf-block-text-with-heading__bg-image-bottom position-absolute d-none d-lg-block">&#13;
+&#13;
+<img decoding="async" src="https://forethought.ai/wp-content/themes/forethought/images/img__circle-dashed.svg" data-lazy="true" class="lazyload d-block">&#13;
+&#13;
+</div>&#13;
+&#13;
+<div class="row">&#13;
+&#13;
+&#13;
+&#13;
+<div class="col-12  mx-auto text-center c-mt-9">&#13;
+<h2 class="font-size-36 line-height-1-4" id="empower-agents-and-c-2">Empower agents and customers with AI that goes beyond a chatbot.</h2>&#13;
+<div class=" entry-content font-size-18 line-height-1-7 text-gray c-mt-md-4">&#13;
+<p>Elloe AI is designed to drive higher customer satisfaction&#x2014;not deflect their requests or waste their time.</p>
+</div>&#13;
+</div>&#13;
+&#13;
+&#13;
+&#13;
+<div class="col-12 col-md-6 mx-auto text-left c-mt-9">&#13;
+<h2 class="font-size-24 line-height-1-4" id="resolve-simple-cases-3">Resolve simple cases automatically.</h2>&#13;
+<div class=" entry-content font-size-18 line-height-1-7 text-gray c-mt-md-4">&#13;
+<p>Empower customers to compare plans, review coverage and benefits information, manage billing, and find care without an agent.</p>
+</div>&#13;
+</div>&#13;
+&#13;
+&#13;
+&#13;
+<div class="col-12 col-md-6 mx-auto text-left c-mt-9">&#13;
+<h2 class="font-size-24 line-height-1-4" id="empower-customers-to-4">Empower customers to self-serve.</h2>&#13;
+<div class=" entry-content font-size-18 line-height-1-7 text-gray c-mt-md-4">&#13;
+<p>Let customers complete complex workflows, such as adding members to a plan, viewing and submitting claims, and more.</p>
+</div>&#13;
+</div>&#13;
+&#13;
+&#13;
+&#13;
+<div class="col-12 col-md-6 mx-auto text-left c-mt-9">&#13;
+<h2 class="font-size-24 line-height-1-4" id="triage-more-complex-5">Intelligent Routing more complex customer tickets.</h2>&#13;
+<div class=" entry-content font-size-18 line-height-1-7 text-gray c-mt-md-4">&#13;
+<p>Escalate high-priority cases to the right support team through accurate sentiment and intent detection.</p>
+</div>&#13;
+</div>&#13;
+&#13;
+&#13;
+&#13;
+<div class="col-12 col-md-6 mx-auto text-left c-mt-9">&#13;
+<h2 class="font-size-24 line-height-1-4" id="assist-agents-with-r-6">Live Chat agents with relevant details.</h2>&#13;
+<div class=" entry-content font-size-18 line-height-1-7 text-gray c-mt-md-4">&#13;
+<p>Give agents the context they need, from account and policy details to policy history to suggested responses based on past cases.</p>
+</div>&#13;
+</div>&#13;
+&#13;
+&#13;
+</div>&#13;
+</div>&#13;
+</div>&#13;
+</div>&#13;
+</div>&#13;
+&#13;
+&#13;
 <div class="container"><div class="row"><div class="col-12 mx-auto"><div class="entry-content">
 &#13;
 &#13;
 </div></div></div></div>&#13;
-<div id="acf-block-text-call-to-action-block_61654ab283e4f" class="acf-block-text-call-to-action c-pt-8 c-pb-8 bg-blue-light" data-anim="fade-up">&#13;
+<div id="acf-block-text-call-to-action-block_61793c710c01a" class="acf-block-text-call-to-action c-mt-10 c-pt-8 c-pb-8 bg-blue-light" data-anim="fade-up">&#13;
 <div class="container">&#13;
 <div class="row">&#13;
 <div class="col-12 col-lg-8 mx-auto text-center">&#13;
@@ -426,8 +343,8 @@ entire customer journey.</h2>&#13;
 &#13;
 &#13;
 <div class="acf-block-text-call-to-action__text acf-block-text-call-to-action__text--bolded entry-content font-size-18 line-height-1-5 text-gray c-px-lg-6 c-mt-6 c-mt-lg-3">&#13;
-<p>Elloe delivers solutions that <a href="https://elloe.ai/ai-co-pilot/"><strong>solve</strong></a> simple customer<br>
-questions, <a href="https://www.elloe.ai/intelligent-routing/"><strong>Intelligent Routing</strong></a> tickets that need an agent and <a href="https://elloe.ai/live-chat/"><strong>Live Chat</strong></a><br>
+<p>Elloe delivers solutions that <a href="https://www.elloe.ai/solve/ "><strong>solve</strong></a> simple customer<br>
+questions, <a href="https://www.elloe.ai/intelligent-routing/"><strong>Intelligent Routing</strong></a> tickets that need an agent and <a href="https://www.elloe.ai/live-chat/"><strong>Live Chat</strong></a><br>
 agents in providing experiences that delight customers.</p>
 </div>&#13;
 &#13;
@@ -447,13 +364,13 @@ agents in providing experiences that delight customers.</p>
 &#13;
 </div></div></div></div>&#13;
 &#13;
-<section id="acf-block-cta-block_61654ae783e50" class="acf-block-cta position-relative bg-secondary c-pt-lg-8 overflow-hidden">&#13;
+<section id="acf-block-cta-block_61793cb80c01b" class="acf-block-cta position-relative bg-secondary c-pt-lg-8 overflow-hidden">&#13;
 <div class="container position-relative z-index-1" data-anim="fade-up">&#13;
 <div class="row">&#13;
 <div class="col-lg-5">&#13;
 &#13;
 &#13;
-<h2 class="font-size-45 text-white" id="think-outside-the-bo-8">Think outside the bot.&#x2122;</h2>&#13;
+<h2 class="font-size-45 text-white" id="think-outside-the-bo-7">Think outside the bot.&#x2122;</h2>&#13;
 &#13;
 &#13;
 &#13;
@@ -465,7 +382,7 @@ agents in providing experiences that delight customers.</p>
 &#13;
 &#13;
 &#13;
-<a href="https://elloe.ai/request-demo/" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--white-color c-mt-6">Request a demo</a>&#13;
+<a href="https://www.elloe.ai/request-demo/ " target="_self" class="crunch-button crunch-button__outline crunch-button__outline--white-color c-mt-6">Request a demo</a>&#13;
 &#13;
 &#13;
 </div>&#13;
@@ -482,9 +399,9 @@ agents in providing experiences that delight customers.</p>
 <div class="acf-block-cta__decor position-absolute z-index-1">&#13;
 <svg width="61.125rem" height="21.9375rem" class="acf-block-cta__decor-svg acf-block-cta__decor-svg--desktop d-none d-lg-block" viewbox="0 0 978 351" fill="none" xmlns="http://www.w3.org/2000/svg">&#13;
 <title>Call to action decor</title>&#13;
-<path d="M45 351L45.0001 316.123C45.0002 282.986 71.863 256.123 105 256.123L194 256.123C227.137 256.122 254 229.26 254 196.123L254 105C254 71.8629 280.863 45 314 45L1050 45" stroke="url(#acf-block-cta-block_61654ae783e50-1)" stroke-width="90" stroke-linecap="round"></path>&#13;
+<path d="M45 351L45.0001 316.123C45.0002 282.986 71.863 256.123 105 256.123L194 256.123C227.137 256.122 254 229.26 254 196.123L254 105C254 71.8629 280.863 45 314 45L1050 45" stroke="url(#acf-block-cta-block_61793cb80c01b-1)" stroke-width="90" stroke-linecap="round"></path>&#13;
 <defs>&#13;
-<lineargradient id="acf-block-cta-block_61654ae783e50-1" x1="531.438" y1="50.417" x2="531.691" y2="348.811" gradientunits="userSpaceOnUse">&#13;
+<lineargradient id="acf-block-cta-block_61793cb80c01b-1" x1="531.438" y1="50.417" x2="531.691" y2="348.811" gradientunits="userSpaceOnUse">&#13;
 <stop offset="0" stop-color="#6BDAB6"></stop>&#13;
 <stop offset="1" stop-color="#66E0F6"></stop>&#13;
 </lineargradient>&#13;
@@ -493,9 +410,9 @@ agents in providing experiences that delight customers.</p>
 &#13;
 <svg width="23.1875rem" height="16rem" class="acf-block-cta__decor-svg acf-block-cta__decor-svg--mobile d-lg-none" viewbox="0 0 375 258" fill="none" xmlns="http://www.w3.org/2000/svg">&#13;
 <title>Call to action decor</title>&#13;
-<path d="M-64.4478 228L-64.4477 205.411C-64.4476 183.95 -47.0497 166.552 -25.5884 166.552L32.0533 166.552C53.5147 166.552 70.9126 149.154 70.9126 127.693L70.9126 68.6764C70.9126 47.2149 88.3106 29.8169 109.772 29.8169L586.448 29.8169" stroke="url(#acf-block-cta-block_61654ae783e50-2)" stroke-width="58.2891" stroke-linecap="round"></path>&#13;
+<path d="M-64.4478 228L-64.4477 205.411C-64.4476 183.95 -47.0497 166.552 -25.5884 166.552L32.0533 166.552C53.5147 166.552 70.9126 149.154 70.9126 127.693L70.9126 68.6764C70.9126 47.2149 88.3106 29.8169 109.772 29.8169L586.448 29.8169" stroke="url(#acf-block-cta-block_61793cb80c01b-2)" stroke-width="58.2891" stroke-linecap="round"></path>&#13;
 <defs>&#13;
-<lineargradient id="acf-block-cta-block_61654ae783e50-2" x1="250.597" y1="33.3253" x2="250.761" y2="226.582" gradientunits="userSpaceOnUse">&#13;
+<lineargradient id="acf-block-cta-block_61793cb80c01b-2" x1="250.597" y1="33.3253" x2="250.761" y2="226.582" gradientunits="userSpaceOnUse">&#13;
 <stop offset="0" stop-color="#6BDAB6"></stop>&#13;
 <stop offset="1" stop-color="#66E0F6"></stop>&#13;
 </lineargradient>&#13;
@@ -529,7 +446,8 @@ e.parentNode.insertBefore(n, e);
 })(document,"script","hs-analytics",300000);
 </script>
 
-<link rel="stylesheet" id="companies-list-block-styles-css" href="https://forethought.ai/wp-content/themes/forethought/dist/acf_block_companies_list.css?ver=240418-105437" media="all" />
+<link rel="stylesheet" id="list-with-animated-icon-block-styles-css" href="https://forethought.ai/wp-content/themes/forethought/dist/acf_block_list_with_animated_icon.css?ver=240418-105440" media="all" />
+<link rel="stylesheet" id="text-with-heading-block-styles-css" href="https://forethought.ai/wp-content/themes/forethought/dist/acf_block_text_with_heading.css?ver=240418-105446" media="all" />
 <link rel="stylesheet" id="text-call-to-action-block-styles-css" href="https://forethought.ai/wp-content/themes/forethought/dist/acf_block_text_call_to_action.css?ver=240418-105446" media="all" />
 <script id="rocket-browser-checker-js-after">
 /* <![CDATA[ */
@@ -550,6 +468,5 @@ var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$
 </script>
 <script src="https://code.jquery.com/jquery-3.5.0.min.js?ver=3.5.0" id="jquery-core-js" defer></script>
 <script src="https://code.jquery.com/jquery-migrate-3.2.0.min.js?ver=3.2.0" id="jquery-migrate-js" defer></script>
-<script data-minify="1" src="https://forethought.ai/wp-content/cache/min/1/wp-content/themes/forethought/dist/acf_block_companies_list.bundle.js?ver=1713460960" id="companies-list-block-scripts-js" defer></script>
 </body>
 </html>

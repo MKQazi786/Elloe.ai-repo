@@ -8,22 +8,12 @@
 <script type="text/javascript">
 /* <![CDATA[ */
  var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}}); 
-/* ]]> */
+
 </script>
-<link rel="icon" type="image/png" sizes="16x16" href="https://forethought.ai/wp-content/themes/forethought/images/favicon/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://forethought.ai/wp-content/themes/forethought/images/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="228x228" href="https://forethought.ai/wp-content/themes/forethought/images/favicon/coast-228x228.png">
-<link rel="manifest" href="https://forethought.ai/wp-content/themes/forethought/images/favicon/manifest.json">
-<link rel="shortcut icon" href="https://forethought.ai/wp-content/themes/forethought/images/favicon/favicon.ico">
-<link rel="yandex-tableau-widget" href="https://forethought.ai/wp-content/themes/forethought/images/favicon/yandex-browser-manifest.json">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Forethought">
-<meta name="application-name" content="Forethought">
-<meta name="mobile-web-app-capable" content="yes">
-<meta name="msapplication-TileColor" content="%23ffffff">
-<meta name="msapplication-TileImage" content="https://forethought.ai/wp-content/themes/forethought/images/favicon/mstile-144x144.png">
-<meta name="msapplication-config" content="https://forethought.ai/wp-content/themes/forethought/images/favicon/browserconfig.xml">
+<link rel="shortcut icon" type="image" href="http://www.elloe.ai/wp-content/uploads/2024/04/full.png">
+
+<link rel="shortcut icon" type="image" href="http://www.elloe.ai/wp-content/uploads/2024/04/full.png">
+
 <meta name="theme-color" content="%23ffffff">
 <link rel="pingback" href="https://forethought.ai/xmlrpc.php">
 <link rel="preload" href="https://forethought.ai/wp-content/themes/forethought/src/fonts/Tiempos-Headline-Black.woff" as="font" type="font/woff" crossorigin>
@@ -117,7 +107,7 @@ s.parentNode.insertBefore(b, s);})();
 <script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://forethought.ai/wp-content/cache/min/1/wp-content/themes/forethought/dist/vendor.bundle.js?ver=1713198698" id="vendor-scripts-js" defer></script>
 <script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://forethought.ai/wp-content/cache/min/1/wp-content/themes/forethought/dist/homepage_hero_section.bundle.js?ver=1713198698" id="homepage-hero-section-scripts-js" defer></script>
 <link rel="https://api.w.org/" href="https://forethought.ai/wp-json/" /><link rel="alternate" type="application/json" href="https://forethought.ai/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://forethought.ai/xmlrpc.php?rsd" />
-<link rel="shortlink" href="https://forethought.ai/" />
+<link rel="shortlink" href="https://www.elloe.ai/" />
 <link rel="alternate" type="application/json+oembed" href="https://forethought.ai/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fforethought.ai%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://forethought.ai/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fforethought.ai%2F&#038;format=xml" />
 </head>
@@ -137,7 +127,7 @@ s.parentNode.insertBefore(b, s);})();
 <a class="screen-reader-shortcut-header" href="#main" tabindex="0">Skip to main content</a>
 <div class="main-content">
 <?php 
-  include 'components/header.php';
+  include 'header.php';
   ?>
   <main id="main">
 <section class="homepage-hero-section position-relative overflow-hidden c-pb-lg-6">
@@ -147,7 +137,7 @@ s.parentNode.insertBefore(b, s);})();
 <h1 class="homepage-hero-section__title h1-small">AI-First Customer Support Automation: Built on Your Data</h1>
 <div class="homepage-hero-section__content entry-content text-gray c-mt-5">
 <p>The generative customer support AI that will 10X your help desk efficiency over chat and email, cut costs, and ensure a top-tier experience.</p>
-<p>The only support AI with <a href="https://forethought.ai/platform/solve/autoflows-for-solve/">Autoflows</a>, natural language automation without decision trees.</p>
+<p>The only support AI with <a href="https://www.elloe.ai/solve/">Autoflows</a>, natural language automation without decision trees.</p>
 </div>
 <div class="homepage-hero-section__form position-relative z-index-3">
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript"></script>
@@ -158,7 +148,7 @@ s.parentNode.insertBefore(b, s);})();
 <div class="gform-body gform_body"><div id="gform_fields_22" class="gform_fields top_label form_sublabel_below description_below"><div id="field_22_1" class="gfield gfield--type-email gfield_contains_required field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible" data-js-reload="field_22_1"><label class="gfield_label gform-field-label" for="input_22_1">Business Email<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class="ginput_container ginput_container_email">
 <input name="input_1" id="input_22_1" type="email" value class="large" aria-required="true" aria-invalid="false" />
 </div></div><div id="field_22_2" class="gfield gfield--type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible" data-js-reload="field_22_2"><div class="ginput_container ginput_container_text"><input name="input_2" id="input_22_2" type="hidden" class="gform_hidden" aria-invalid="false" value="zalora" /></div></div><div id="field_22_3" class="gfield gfield--type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible" data-js-reload="field_22_3"><div class="ginput_container ginput_container_text"><input name="input_3" id="input_22_3" type="hidden" class="gform_hidden" aria-invalid="false" value="product-widget" /></div></div><div id="field_22_4" class="gfield gfield--type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible" data-js-reload="field_22_4"><div class="ginput_container ginput_container_text"><input name="input_4" id="input_22_4" type="hidden" class="gform_hidden" aria-invalid="false" value="widget-traffic" /></div></div><div id="field_22_5" class="gfield gfield--type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible" data-js-reload="field_22_5"><div class="ginput_container ginput_container_text"><input name="input_5" id="input_22_5" type="hidden" class="gform_hidden" aria-invalid="false" value /></div></div><div id="field_22_6" class="gfield gfield--type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible" data-js-reload="field_22_6"><div class="ginput_container ginput_container_text"><input name="input_6" id="input_22_6" type="hidden" class="gform_hidden" aria-invalid="false" value="corporate-website" /></div></div><div id="field_22_7" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below gfield_visibility_visible" data-js-reload="field_22_7"><label class="gfield_label gform-field-label" for="input_22_7">Phone</label><div class="ginput_container"><input name="input_7" id="input_22_7" type="text" value autocomplete="new-password" /></div><div class="gfield_description" id="gfield_description_22_7">This field is for validation purposes and should be left unchanged.</div></div></div></div>
-<div class="gform_footer top_label"> <button type="submit" id="gform_submit_button_22" class="gform_button button crunch-button crunch-button__full-background crunch-button__full-background--medium crunch-button__full-background--purple-gradient border-0" onclick="if(window[&quot;gf_submitting_22&quot;]){return false;}  if( !jQuery(&quot;#gform_22&quot;)[0].checkValidity || jQuery(&quot;#gform_22&quot;)[0].checkValidity()){window[&quot;gf_submitting_22&quot;]=true;}  " onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_22&quot;]){return false;} if( !jQuery(&quot;#gform_22&quot;)[0].checkValidity || jQuery(&quot;#gform_22&quot;)[0].checkValidity()){window[&quot;gf_submitting_22&quot;]=true;}  jQuery(&quot;#gform_22&quot;).trigger(&quot;submit&quot;,[true]); }">View Demo</button> <input type="hidden" name="gform_ajax" value="form_id=22&amp;title=&amp;description=1&amp;tabindex=0&amp;theme=gravity-theme" />
+<div class="gform_footer top_label"> <button href="https://www.elloe.ai/request-demo/" type="submit" id="gform_submit_button_22" class="gform_button button crunch-button crunch-button__full-background crunch-button__full-background--medium crunch-button__full-background--purple-gradient border-0" onclick="if(window[&quot;gf_submitting_22&quot;]){return false;}  if( !jQuery(&quot;#gform_22&quot;)[0].checkValidity || jQuery(&quot;#gform_22&quot;)[0].checkValidity()){window[&quot;gf_submitting_22&quot;]=true;}  " onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_22&quot;]){return false;} if( !jQuery(&quot;#gform_22&quot;)[0].checkValidity || jQuery(&quot;#gform_22&quot;)[0].checkValidity()){window[&quot;gf_submitting_22&quot;]=true;}  jQuery(&quot;#gform_22&quot;).trigger(&quot;submit&quot;,[true]); }"><a href="https://www.elloe.ai/request-demo/" style="color:white;" >View Demo</a></button> <input type="hidden" name="gform_ajax" value="form_id=22&amp;title=&amp;description=1&amp;tabindex=0&amp;theme=gravity-theme" />
 <input type="hidden" class="gform_hidden" name="is_submit_22" value="1" />
 <input type="hidden" class="gform_hidden" name="gform_submit" value="22" />
 <input type="hidden" class="gform_hidden" name="gform_unique_id" value />
@@ -242,7 +232,7 @@ s.parentNode.insertBefore(b, s);})();
 &#13;
 &#13;
 &#13;
-<a href="https://forethought.ai/case-studies/lime-case-study/" target="_self" class="hover-opacity-0-75 d-inline-block">&#13;
+<a  lime-case-study/" target="_self" class="hover-opacity-0-75 d-inline-block">&#13;
 &#13;
 &#13;
 &#13;
@@ -260,7 +250,7 @@ s.parentNode.insertBefore(b, s);})();
 &#13;
 &#13;
 &#13;
-<a href="https://forethought.ai/case-studies/achievers/" target="_self" class="hover-opacity-0-75 d-inline-block">&#13;
+<a  achievers/" target="_self" class="hover-opacity-0-75 d-inline-block">&#13;
 &#13;
 &#13;
 &#13;
@@ -278,7 +268,7 @@ s.parentNode.insertBefore(b, s);})();
 &#13;
 &#13;
 &#13;
-<a href="https://forethought.ai/case-studies/d2l/" target="_self" class="hover-opacity-0-75 d-inline-block">&#13;
+<a  d2l/" target="_self" class="hover-opacity-0-75 d-inline-block">&#13;
 &#13;
 &#13;
 &#13;
@@ -296,7 +286,7 @@ s.parentNode.insertBefore(b, s);})();
 &#13;
 &#13;
 &#13;
-<a href="https://forethought.ai/case-studies/upwork/" target="_self" class="hover-opacity-0-75 d-inline-block">&#13;
+<a  upwork/" target="_self" class="hover-opacity-0-75 d-inline-block">&#13;
 &#13;
 &#13;
 &#13;
@@ -336,7 +326,7 @@ s.parentNode.insertBefore(b, s);})();
 &#13;
 &#13;
 &#13;
-<a href="https://forethought.ai/case-studies/ifit/" target="_self" class="hover-opacity-0-75 d-inline-block">&#13;
+<a  ifit/" target="_self" class="hover-opacity-0-75 d-inline-block">&#13;
 &#13;
 &#13;
 &#13;
@@ -354,7 +344,7 @@ s.parentNode.insertBefore(b, s);})();
 &#13;
 &#13;
 &#13;
-<a href="https://forethought.ai/case-studies/q4-inc/" target="_self" class="hover-opacity-0-75 d-inline-block">&#13;
+<a  q4-inc/" target="_self" class="hover-opacity-0-75 d-inline-block">&#13;
 &#13;
 &#13;
 &#13;
@@ -456,7 +446,7 @@ s.parentNode.insertBefore(b, s);})();
 &#13;
 &#13;
 <div class="entry-content font-weight-medium text-gray-2 font-size-18 c-mt-only-3">&#13;
-<p>Forethought&#x2019;s generative customer support AI&#x2014;powered by <a href="https://forethought.ai/supportgpt/" target="_blank" rel="noopener">SupportGPT</a>&#x2014;uses Large Language Models (LLMs) and fine-tunes them on your own data to maximize efficiency and ROI for support teams.</p>
+<p>Elloe&#x2019;s generative customer support AI&#x2014;powered by <a href="https://www.elloe.ai/Omnichannel/" target="_blank" rel="noopener">Omnichannel</a>&#x2014;uses Large Language Models (LLMs) and fine-tunes them on your own data to maximize efficiency and ROI for support teams.</p>
 </div>&#13;
 &#13;
 &#13;
@@ -512,7 +502,7 @@ s.parentNode.insertBefore(b, s);})();
 <div class="row">&#13;
 <div class="col-12 col-lg-6 col-xl-4 offset-xl-1">&#13;
 <h3 class="font-size-45-45 c-mt-8 c-pt-3 line-height-1-3" id="streamline-the-entir-2">Streamline the entire customer support ticket lifecycle on one generative AI platform.</h3>&#13;
-<a class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--small crunch-button__outline--purple-gradient c-mt-7 c-mt-md-5" href="https://forethought.ai/platform/" target="_self">&#13;
+<a class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--small crunch-button__outline--purple-gradient c-mt-7 c-mt-md-5" href="https://www.elloe.ai/platform" target="_self">&#13;
 &#13;
 Our platform&#13;
 </a>&#13;
@@ -545,7 +535,7 @@ Our platform&#13;
 </lineargradient>
 </defs>
 </svg>
-<span class="acf-block-heading-with-chart-and-icons__chart-label c-mt-3 c-mt-md-2 text-uppercase fw-semibold font-size-9-14">Solve</span>&#13;
+<span class="acf-block-heading-with-chart-and-icons__chart-label c-mt-3 c-mt-md-2 text-uppercase fw-semibold font-size-9-14">AI Co-Pilot</span>&#13;
 </div>&#13;
 </div>&#13;
 &#13;
@@ -568,7 +558,7 @@ Our platform&#13;
 <stop offset="0.9744" stop-color="#F6BE42"></stop>
 <stop offset="1" stop-color="#F6C043"></stop>
 </lineargradient>
-<lineargradient id="svg_94ff1d3c-9c25-48e1-b326-e9190370c316_triage-icon-2" x1="0.000343121" y1="30.0141" x2="37.6546" y2="30.0141" gradientunits="userSpaceOnUse">
+<lineargradient id="svg_94ff1d3c-9c25-48e1-b326-e9190370c316_Intelligent Routing-icon-2" x1="0.000343121" y1="30.0141" x2="37.6546" y2="30.0141" gradientunits="userSpaceOnUse">
 <stop offset="0" stop-color="#FF9634"></stop>
 <stop offset="0.2978" stop-color="#FE9B36"></stop>
 <stop offset="0.6287" stop-color="#FBA83A"></stop>
@@ -580,7 +570,7 @@ Our platform&#13;
 </clippath>
 </defs>
 </svg>
-<span class="acf-block-heading-with-chart-and-icons__chart-label c-mt-3 c-mt-md-2 text-uppercase fw-semibold font-size-9-14">Triage</span>&#13;
+<span class="acf-block-heading-with-chart-and-icons__chart-label c-mt-3 c-mt-md-2 text-uppercase fw-semibold font-size-9-14">Intelligent Routing</span>&#13;
 </div>&#13;
 </div>&#13;
 &#13;
@@ -612,7 +602,7 @@ Our platform&#13;
 </clippath>
 </defs>
 </svg>
-<span class="acf-block-heading-with-chart-and-icons__chart-label c-mt-3 c-mt-md-2 text-uppercase fw-semibold font-size-9-14">Assist</span>&#13;
+<span class="acf-block-heading-with-chart-and-icons__chart-label c-mt-3 c-mt-md-2 text-uppercase fw-semibold font-size-9-14">Live Chat</span>&#13;
 </div>&#13;
 </div>&#13;
 &#13;
@@ -638,7 +628,7 @@ Our platform&#13;
 </clippath>
 </defs>
 </svg>
-<span class="acf-block-heading-with-chart-and-icons__chart-label c-mt-3 c-mt-md-2 text-uppercase fw-semibold font-size-9-14">Discover</span>&#13;
+<span class="acf-block-heading-with-chart-and-icons__chart-label c-mt-3 c-mt-md-2 text-uppercase fw-semibold font-size-9-14">Insights</span>&#13;
 </div>&#13;
 </div>&#13;
 &#13;
@@ -705,7 +695,7 @@ Our platform&#13;
 </div>&#13;
 &#13;
 &#13;
-<h4 class="font-size-36 c-mt-6 c-mt-lg-3" id="solve-3">Solve</h4>&#13;
+<h4 class="font-size-36 c-mt-6 c-mt-lg-3" id="solve-3">AI Co-Pilot</h4>&#13;
 <p class="font-size-24 c-mt-6 c-mt-lg-3 acf-block-timeline__text">Autonomous, automatic policy creation and ticket resolution across multiple channels.</p>&#13;
 <strong class="font-size-18 fw-normal c-mt-4 c-mt-lg-2">Benefits</strong>&#13;
 <ul class="font-size-18">&#13;
@@ -713,8 +703,8 @@ Our platform&#13;
 <li>Faster time to resolution</li>&#13;
 <li>Happier customers</li>&#13;
 </ul>&#13;
-<a class="crunch-button crunch-button__full-background crunch-button__full-background--medium crunch-button__full-background--green-gradient c-mt-2" href="https://forethought.ai/platform/solve/">&#13;
-Solve </a>&#13;
+<a class="crunch-button crunch-button__full-background crunch-button__full-background--medium crunch-button__full-background--green-gradient c-mt-2" href="https://www.elloe.ai/ai-co-pilot/">&#13;
+AI Co-Pilot </a>&#13;
 </div>&#13;
 </div>&#13;
 &#13;
@@ -781,15 +771,15 @@ Solve </a>&#13;
 </div>&#13;
 &#13;
 &#13;
-<h4 class="font-size-36 c-mt-6 c-mt-lg-3" id="triage-4">Triage</h4>&#13;
+<h4 class="font-size-36 c-mt-6 c-mt-lg-3" id="triage-4">Intelligent Routing</h4>&#13;
 <p class="font-size-24 c-mt-6 c-mt-lg-3 acf-block-timeline__text">Instantly enrich cases with sentiment and intent, then prioritize and route based on urgency.</p>&#13;
 <strong class="font-size-18 fw-normal c-mt-4 c-mt-lg-2">Benefits</strong>&#13;
 <ul class="font-size-18">&#13;
 <li>Faster response time</li>&#13;
 <li>Fewer manual tasks</li>&#13;
 </ul>&#13;
-<a class="crunch-button crunch-button__full-background crunch-button__full-background--medium crunch-button__full-background--yellow-gradient c-mt-2" href="https://forethought.ai/platform/triage/">&#13;
-Triage </a>&#13;
+<a class="crunch-button crunch-button__full-background crunch-button__full-background--medium crunch-button__full-background--yellow-gradient c-mt-2" href="https://www.elloe.ai/intelligent-routing/">&#13;
+Intelligent Routing </a>&#13;
 </div>&#13;
 </div>&#13;
 &#13;
@@ -841,15 +831,15 @@ Triage </a>&#13;
 </div>&#13;
 &#13;
 &#13;
-<h4 class="font-size-36 c-mt-6 c-mt-lg-3" id="assist-5">Assist</h4>&#13;
+<h4 class="font-size-36 c-mt-6 c-mt-lg-3" id="assist-5">Live Chat</h4>&#13;
 <p class="font-size-24 c-mt-6 c-mt-lg-3 acf-block-timeline__text">Harness the power of generative AI&#x2014;powered by Large Language Models (LLMs) trained on your data&#x2014;to ramp agents faster and empower them with relevant knowledge and suggested responses.</p>&#13;
 <strong class="font-size-18 fw-normal c-mt-4 c-mt-lg-2">Benefits</strong>&#13;
 <ul class="font-size-18">&#13;
 <li>Faster response time</li>&#13;
 <li>Higher agent productivity</li>&#13;
 </ul>&#13;
-<a class="crunch-button crunch-button__full-background crunch-button__full-background--medium crunch-button__full-background--purple-gradient c-mt-2" href="https://forethought.ai/platform/assist/">&#13;
-Assist </a>&#13;
+<a class="crunch-button crunch-button__full-background crunch-button__full-background--medium crunch-button__full-background--purple-gradient c-mt-2" href="https://www.elloe.ai/live-chat/">&#13;
+Live Chat </a>&#13;
 </div>&#13;
 </div>&#13;
 &#13;
@@ -903,7 +893,7 @@ Assist </a>&#13;
 </div>&#13;
 &#13;
 &#13;
-<h4 class="font-size-36 c-mt-6 c-mt-lg-3" id="discover-6">Discover</h4>&#13;
+<h4 class="font-size-36 c-mt-6 c-mt-lg-3" id="discover-6">Insights</h4>&#13;
 <p class="font-size-24 c-mt-6 c-mt-lg-3 acf-block-timeline__text">Use generative AI to recommend and optimize customer service workflows, track performance and ROI, and instantly improve time to resolution and lower cost.</p>&#13;
 <strong class="font-size-18 fw-normal c-mt-4 c-mt-lg-2">Benefits</strong>&#13;
 <ul class="font-size-18">&#13;
@@ -911,8 +901,8 @@ Assist </a>&#13;
 <li>Identify and resolve gaps</li>&#13;
 <li>Track performance in real time</li>&#13;
 </ul>&#13;
-<a class="crunch-button crunch-button__full-background crunch-button__full-background--medium crunch-button__full-background--pink-gradient c-mt-2" href="https://forethought.ai/platform/discover/">&#13;
-Discover </a>&#13;
+<a class="crunch-button crunch-button__full-background crunch-button__full-background--medium crunch-button__full-background--pink-gradient c-mt-2" href="https://www.elloe.ai/insights">&#13;
+Insights </a>&#13;
 </div>&#13;
 </div>&#13;
 &#13;
@@ -951,7 +941,7 @@ Discover </a>&#13;
 <div class="col-lg-6">&#13;
 &#13;
 &#13;
-<h2 class="h3 text-white c-pr-xxl-8 c-mt-lg-8" id="forethoughts-7">Forethought&#x2019;s generative customer support AI streamlines CX for teams in any industry.</h2>&#13;
+<h2 class="h3 text-white c-pr-xxl-8 c-mt-lg-8" id="forethoughts-7">Elloe&#x2019;s generative customer support AI streamlines CX for teams in any industry.</h2>&#13;
 &#13;
 &#13;
 &#13;
@@ -962,7 +952,7 @@ Discover </a>&#13;
 &#13;
 &#13;
 &#13;
-<a href="https://forethought.ai/industries/" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--white-color c-mt-6">Who we serve</a>&#13;
+<a href="https://www.elloe.ai/industries/" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--white-color c-mt-6">Who we serve</a>&#13;
 &#13;
 &#13;
 </div>&#13;
@@ -976,7 +966,7 @@ Discover </a>&#13;
 &#13;
 &#13;
 <div class="col-md-4 c-mt-only-5" data-anim="fade-up-stagger">&#13;
-<a href="https://forethought.ai/industries/retail-and-e-commerce/" target="_self" class="single-service d-block c-pt-5 c-pt-lg-4">&#13;
+<a href="https://www.elloe.ai/retail-and-e-commerce/" target="_self" class="single-service d-block c-pt-5 c-pt-lg-4">&#13;
 <span class="single-service__title d-inline-block position-relative c-mr-only-4 animated-border-bottom text-white">E-commerce</span>&#13;
 <div class="single-service__description entry-content c-mt-3">&#13;
 <p>Nobody wants to wait on hold just to check shipping status. Instantly resolve common customer service tickets with AI to save support costs and boost CSAT.</p>
@@ -990,7 +980,7 @@ Discover </a>&#13;
 &#13;
 &#13;
 <div class="col-md-4 c-mt-only-5" data-anim="fade-up-stagger">&#13;
-<a href="https://forethought.ai/industries/saas/" target="_self" class="single-service d-block c-pt-5 c-pt-lg-4">&#13;
+<a href="https://www.elloe.ai/saas/" target="_self" class="single-service d-block c-pt-5 c-pt-lg-4">&#13;
 <span class="single-service__title d-inline-block position-relative c-mr-only-4 animated-border-bottom text-white">SaaS</span>&#13;
 <div class="single-service__description entry-content c-mt-3">&#13;
 <p>Resolve simple cases automatically, and instantly route complex or high-priority support inquiries to the right agent.</p>
@@ -1004,7 +994,7 @@ Discover </a>&#13;
 &#13;
 &#13;
 <div class="col-md-4 c-mt-only-5" data-anim="fade-up-stagger">&#13;
-<a href="https://forethought.ai/industries/financial-services/" target="_self" class="single-service d-block c-pt-5 c-pt-lg-4">&#13;
+<a href="https://www.elloe.ai/financial-services/"  target="_self" class="single-service d-block c-pt-5 c-pt-lg-4">&#13;
 <span class="single-service__title d-inline-block position-relative c-mr-only-4 animated-border-bottom text-white">FinTech</span>&#13;
 <div class="single-service__description entry-content c-mt-3">&#13;
 <p>Customers want instant answers and actions. Empower them to self-serve, and enable agents with the context they need to provide fast resolutions.</p>
@@ -1295,7 +1285,7 @@ Discover </a>&#13;
 <div class="col-md-6 col-lg-5 order-md-2">&#13;
 &#13;
 &#13;
-<a href="https://forethought.ai/blog/are-you-customer-centric-6-metrics-to-find-out/" class="hover-opacity-0-75">&#13;
+<a class="hover-opacity-0-75">&#13;
 &#13;
 <img loading="lazy" decoding="async" width="600" height="600" src="https://forethought.ai/wp-content/uploads/2024/01/pexels-mart-production-7709179-600x600.jpg" class="border-radius-1-25 d-block h-auto w-100 tns-lazy-img" alt="Customer support agents on the phone" data-lazy="true" srcset="https://forethought.ai/wp-content/uploads/2024/01/pexels-mart-production-7709179-600x600.jpg 600w, https://forethought.ai/wp-content/uploads/2024/01/pexels-mart-production-7709179-150x150.jpg 150w, https://forethought.ai/wp-content/uploads/2024/01/pexels-mart-production-7709179-400x400.jpg 400w, https://forethought.ai/wp-content/uploads/2024/01/pexels-mart-production-7709179-445x445.jpg 445w, https://forethought.ai/wp-content/uploads/2024/01/pexels-mart-production-7709179-500x500.jpg 500w, https://forethought.ai/wp-content/uploads/2024/01/pexels-mart-production-7709179-250x250.jpg 250w" sizes="(max-width: 600px) 100vw, 600px">&#13;
 </a>&#13;
@@ -1303,7 +1293,7 @@ Discover </a>&#13;
 </div>&#13;
 <div class="col-md-6 c-pb-only-8">&#13;
 <span class="d-block text-uppercase fw-semibold font-size-12 letter-spacing-200 text-secondary c-mt-only-6 c-mt-md-0">RECENTLY POSTED RESOURCES</span>&#13;
-<h2 class="c-mt-only-3" id="-13"><a href="https://forethought.ai/blog/are-you-customer-centric-6-metrics-to-find-out/" class="animated-border-bottom text-secondary">Are You Truly Customer-Centric? Track These 6 Metrics to Find Out</a></h2>&#13;
+<h2 class="c-mt-only-3" id="-13"><a class="animated-border-bottom text-secondary">Are You Truly Customer-Centric? Track These 6 Metrics to Find Out</a></h2>&#13;
 &#13;
 &#13;
 <div class="c-mt-4 text-gray">&#13;
@@ -1311,7 +1301,7 @@ It&#x2019;s a story that&#x2019;s all too familiar. A company invests millions t
 &#13;
 &#13;
 &#13;
-<a href="https://forethought.ai/blog/are-you-customer-centric-6-metrics-to-find-out/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--purple-gradient crunch-button__outline--medium c-mt-only-4">Learn more</a>&#13;
+<a class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--purple-gradient crunch-button__outline--medium c-mt-only-4">Learn more</a>&#13;
 &#13;
 &#13;
 </div>&#13;
@@ -1559,7 +1549,7 @@ Artificial intelligence has been instrumental in transforming business operation
 &#13;
 &#13;
 &#13;
-<a href="https://forethought.ai/view-demo/" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--white-color c-mt-6">Request a demo</a>&#13;
+<a href="https://www.elloe.ai/request-demo/" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--white-color c-mt-6">Request a demo</a>&#13;
 &#13;
 &#13;
 </div>&#13;
@@ -1604,7 +1594,7 @@ Artificial intelligence has been instrumental in transforming business operation
 <div class="container"><div class="row"><div class="col-12 mx-auto"><div class="entry-content"></div></div></div></div>
 </main>
 <?php 
-  include 'components/footer.php';
+  include 'footer.php';
   ?>
 <a href="#main" aria-label="Return to top" class="return-to-top js-scroll-to js-return-to-top d-none d-md-flex align-items-center justify-content-center position-fixed text-center text-light-black border-0 rounded-circle">
 <svg aria-hidden="true" data-prefix="far" data-icon="chevron-up" class="return-to-top__chevron d-block" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
@@ -1612,7 +1602,7 @@ Artificial intelligence has been instrumental in transforming business operation
 <path fill="currentColor" d="M6.101 359.293L25.9 379.092c4.686 4.686 12.284 4.686 16.971 0L224 198.393l181.13 180.698c4.686 4.686 12.284 4.686 16.971 0l19.799-19.799c4.686-4.686 4.686-12.284 0-16.971L232.485 132.908c-4.686-4.686-12.284-4.686-16.971 0L6.101 342.322c-4.687 4.687-4.687 12.285 0 16.971z"></path>
 </svg>
 </a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="rocketlazyloadscript" data-rocket-src="https://solve-widget.forethought.ai/embed.js" data-rocket-type="application/javascript" id="forethought-widget-embed-script" data-api-key="b85ea646-ae19-423f-bb92-523ba589cbdd" data-ft-PIN-TEST data-ft-EMAIL-TEST async></script>
+<!-- <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="rocketlazyloadscript" data-rocket-src="https://solve-widget.forethought.ai/embed.js" data-rocket-type="application/javascript" id="forethought-widget-embed-script" data-api-key="b85ea646-ae19-423f-bb92-523ba589cbdd" data-ft-PIN-TEST data-ft-EMAIL-TEST async></script> -->
 
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript">
 (function(d,s,i,r) {
