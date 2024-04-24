@@ -399,7 +399,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="acf-block-bordered-content-with-media__content-wrapper d-inline-block bg-white">&#13;
 &#13;
 &#13;
-<h3 class="font-family-base font-size-14 fw-semibold text-uppercase letter-spacing-200" id="assist-7">Lve Chat</h3>&#13;
+<h3 class="font-family-base font-size-14 fw-semibold text-uppercase letter-spacing-200" id="assist-7">Live Chat</h3>&#13;
 &#13;
 &#13;
 &#13;
@@ -455,18 +455,18 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 &#13;
 &#13;
 &#13;
-<h2 class="acf-block-bordered-content-with-media__title" id="forethought-assist-r-9">Elloe Lve Chat ramps agents faster and empowers them with relevant knowledge and ready-made responses.</h2>&#13;
+<h2 class="acf-block-bordered-content-with-media__title" id="forethought-assist-r-9">Elloe Live Chat ramps agents faster and empowers them with relevant knowledge and ready-made responses.</h2>&#13;
 &#13;
 &#13;
 &#13;
 <div class="acf-block-bordered-content-with-media__content entry-content c-mt-4 bg-white position-relative z-index-1 ">&#13;
-<p>Lve Chat gives every agent superpowers by surfacing complete ticket context, access to knowledge from any source, and fully-formed suggested responses powered by <a href="http://www.elloe.ai/omnichannel" target="_blank" rel="noopener">Omnichannel&#x2122;</a>&#x2014;all in the agent&#x2019;s help desk.</p>
+<p>Live Chat gives every agent superpowers by surfacing complete ticket context, access to knowledge from any source, and fully-formed suggested responses powered by <a href="http://www.elloe.ai/omnichannel" target="_blank" rel="noopener">Omnichannel&#x2122;</a>&#x2014;all in the agent&#x2019;s help desk.</p>
 </div>&#13;
 &#13;
 &#13;
 &#13;
 &#13;
-<a href="https://www.elloe.ai/live-chat/" target="_self" class="crunch-button crunch-button__full-background crunch-button__full-background--purple-gradient c-mt-5">Lve Chat</a>&#13;
+<a href="https://www.elloe.ai/live-chat/" target="_self" class="crunch-button crunch-button__full-background crunch-button__full-background--purple-gradient c-mt-5">Live Chat</a>&#13;
 &#13;
 &#13;
 &#13;

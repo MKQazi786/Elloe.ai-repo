@@ -1,3 +1,4 @@
+<?php /* Template name: customers */ ?>
 
 
 <!doctype html>
@@ -8,8 +9,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link rel="shortcut icon" type="image" href="http://www.elloe.ai/wp-content/uploads/2024/04/full.png">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Forethought">
-<meta name="application-name" content="Forethought">
+<meta name="apple-mobile-web-app-title" content="Elloe">
+<meta name="application-name" content="Elloe">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="msapplication-TileColor" content="%23ffffff">
 <meta name="msapplication-TileImage" content="https://forethought.ai/wp-content/themes/forethought/images/favicon/mstile-144x144.png">
@@ -69,7 +70,7 @@ s.parentNode.insertBefore(b, s);})();
 <meta property="og:title" content="Case Studies Archive | Elloe" />
 <meta property="og:description" content="Case Studies Archive | Elloe" />
 <meta property="og:url" content="https://elloe.ai/customers/" />
-<meta property="og:site_name" content="Forethought" />
+<meta property="og:site_name" content="Elloe" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Case Studies Archive | Elloe" />
 <meta name="twitter:description" content="Case Studies Archive | Elloe" />
@@ -90,7 +91,7 @@ s.parentNode.insertBefore(b, s);})();
 <link rel="dns-prefetch" href="//js.hs-analytics.net" />
 <link rel="dns-prefetch" href="//www.googleadservices.com" />
 <link href="https://fonts.gstatic.com" crossorigin rel="preconnect" />
-<link rel="alternate" type="application/rss+xml" title="Forethought &raquo; Case Studies Feed" href="https://forethought.ai/customers/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Elloe &raquo; Case Studies Feed"  />
 <link rel="stylesheet" id="wp-block-library-css" href="https://forethought.ai/wp-includes/css/dist/block-library/style.min.css" media="all" />
 <style id="wp-block-library-theme-inline-css">
 .wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:#ffffffa6}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:#ffffffa6}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
@@ -212,9 +213,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </div>
 <div class="col-lg-7">
 <span class="font-size-12 line-height-1-3 letter-spacing-200 text-uppercase font-family-base fw-semibold d-block c-mt-5">Featured success story</span>
-<h2 class="acf-block-featured-story__title h2 c-mt-3"><a href="https://forethought.ai/case-studies/lime-case-study/" class="text-secondary animated-border-bottom">Lime Provides Fast, Scalable Service with a 77% Reduction in Response Time</a></h2>
+<h2 class="acf-block-featured-story__title h2 c-mt-3"><a  class="text-secondary animated-border-bottom">Lime Provides Fast, Scalable Service with a 77% Reduction in Response Time</a></h2>
 <div class="acf-block-featured-story__content text-gray c-mt-1">Lime strives to make customer support effortless. This means not handing customers off to multiple departments and making it easy for them to self-serve.</div>
-<a href="https://forethought.ai/case-studies/lime-case-study/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--purple-gradient crunch-button__outline--medium c-mt-5">
+<a  class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--purple-gradient crunch-button__outline--medium c-mt-5">
 Read the story
 </a>
 </div>
@@ -253,9 +254,9 @@ Read the story
 <li class="category-item fw-semibold font-size-12 letter-spacing-200 c-mr-3 c-mb-2">
 FinTech </li>
 </ul>
-<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" href="https://forethought.ai/case-studies/abra/">Abra Reaches 40% Self-Serve Rate with Elloe</a></h2>
+<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" >Abra Reaches 40% Self-Serve Rate with Elloe</a></h2>
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-3 c-pr-lg-10">Helping Consumers & Institutions Conquer Crypto Abra is a simple and powerful full-service crypto platform, where consumers and institutions can buy, sell, trade, store, and borrow cryptocurrency. Customers can store digital assets...</div>
-<a href="https://forethought.ai/case-studies/abra/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
+<a  class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
 </div>
 <div class="col-12 col-lg-5 d-flex justify-content-center justify-content-lg-end align-items-start c-mt-7 c-mt-lg-0">
 <div class="case-study-preview__img overflow-hidden border-radius-1-25 d-inline-block">
@@ -273,9 +274,9 @@ FinTech </li>
 <li class="category-item fw-semibold font-size-12 letter-spacing-200 c-mr-3 c-mb-2">
 B2B Software </li>
 </ul>
-<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" href="https://forethought.ai/case-studies/spordle/">Spordle Scales Customer Support with 142% ROI</a></h2>
+<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" >Spordle Scales Customer Support with 142% ROI</a></h2>
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-3 c-pr-lg-10">Create, Grow, and Manage Top-Tier Sports Experiences Spordle is a leading Sports Management ERP that helps customers create, grow, and manage top-tier sports experiences. The platform helps major sports federations, clubs, associations,...</div>
-<a href="https://forethought.ai/case-studies/spordle/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
+<a  class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
 </div>
 <div class="col-12 col-lg-5 d-flex justify-content-center justify-content-lg-end align-items-start c-mt-7 c-mt-lg-0">
 <div class="case-study-preview__img overflow-hidden border-radius-1-25 d-inline-block">
@@ -293,9 +294,9 @@ B2B Software </li>
 <li class="category-item fw-semibold font-size-12 letter-spacing-200 c-mr-3 c-mb-2">
 B2B Software </li>
 </ul>
-<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" href="https://forethought.ai/case-studies/kickfin/">Kickfin Achieves 72% Self-Serve Rate with Elloe</a></h2>
+<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" >Kickfin Achieves 72% Self-Serve Rate with Elloe</a></h2>
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-3 c-pr-lg-10">The #1 Digital Tipping Software for Hospitality Kickfin is the nation&rsquo;s largest provider of instant, cashless tip payments. Restaurants, bars, and hotels use Kickfin to digitally accept, calculate and distribute tips to...</div>
-<a href="https://forethought.ai/case-studies/kickfin/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
+<a  class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
 </div>
 <div class="col-12 col-lg-5 d-flex justify-content-center justify-content-lg-end align-items-start c-mt-7 c-mt-lg-0">
 <div class="case-study-preview__img overflow-hidden border-radius-1-25 d-inline-block">
@@ -313,9 +314,9 @@ B2B Software </li>
 <li class="category-item fw-semibold font-size-12 letter-spacing-200 c-mr-3 c-mb-2">
 Health &amp; Fitness Technology </li>
 </ul>
-<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" href="https://forethought.ai/case-studies/ifit/">iFIT Saves 436 Agent Hours with Elloe</a></h2>
+<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" >iFIT Saves 436 Agent Hours with Elloe</a></h2>
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-3 c-pr-lg-10">A Global Health & Fitness Subscription Technology Company iFIT is a global health and fitness subscription technology company that provides unmatched fitness experiences and solutions to its growing community of six million...</div>
-<a href="https://forethought.ai/case-studies/ifit/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
+<a  class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
 </div>
 <div class="col-12 col-lg-5 d-flex justify-content-center justify-content-lg-end align-items-start c-mt-7 c-mt-lg-0">
 <div class="case-study-preview__img overflow-hidden border-radius-1-25 d-inline-block">
@@ -333,9 +334,9 @@ Health &amp; Fitness Technology </li>
 <li class="category-item fw-semibold font-size-12 letter-spacing-200 c-mr-3 c-mb-2">
 B2B Software </li>
 </ul>
-<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" href="https://forethought.ai/case-studies/achievers/">Achievers Attains 93% First Contact Resolution with Elloe</a></h2>
+<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" >Achievers Attains 93% First Contact Resolution with Elloe</a></h2>
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-3 c-pr-lg-10">Changing the Way the World Works Achievers is an employee voice and recognition solution that builds engagement and sustainable performance in organizations. Achievers leverages the science behind behavior change, so people and...</div>
-<a href="https://forethought.ai/case-studies/achievers/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
+<a  class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
 </div>
 <div class="col-12 col-lg-5 d-flex justify-content-center justify-content-lg-end align-items-start c-mt-7 c-mt-lg-0">
 <div class="case-study-preview__img overflow-hidden border-radius-1-25 d-inline-block">
@@ -353,9 +354,9 @@ B2B Software </li>
 <li class="category-item fw-semibold font-size-12 letter-spacing-200 c-mr-3 c-mb-2">
 B2B Software </li>
 </ul>
-<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" href="https://forethought.ai/case-studies/q4-inc/">Q4 Inc. Achieves 98% Reduction in Time to First Response with Elloe</a></h2>
+<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary"   q4-inc/">Q4 Inc. Achieves 98% Reduction in Time to First Response with Elloe</a></h2>
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-3 c-pr-lg-10">A Leading Capital Markets Communications Platform Q4 Inc. is a leading capital markets communications platform that is transforming the way publicly traded companies, investors, and investment banks make decisions to efficiently connect,...</div>
-<a href="https://forethought.ai/case-studies/q4-inc/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
+<a   q4-inc/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
 </div>
 <div class="col-12 col-lg-5 d-flex justify-content-center justify-content-lg-end align-items-start c-mt-7 c-mt-lg-0">
 <div class="case-study-preview__img overflow-hidden border-radius-1-25 d-inline-block">
@@ -373,9 +374,9 @@ B2B Software </li>
 <li class="category-item fw-semibold font-size-12 letter-spacing-200 c-mr-3 c-mb-2">
 E-Commerce </li>
 </ul>
-<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" href="https://forethought.ai/case-studies/etekcity/">Etekcity Reduces Time To First Response by 69.7% with Elloe</a></h2>
+<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary"   etekcity/">Etekcity Reduces Time To First Response by 69.7% with Elloe</a></h2>
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-3 c-pr-lg-10">Thoughtfully Engineered Consumer Products Etekcity was established with the goal of enriching the lives of customers across the globe by providing thoughtfully engineered consumer products designed with convenience, simplicity, practicality and value...</div>
-<a href="https://forethought.ai/case-studies/etekcity/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
+<a   etekcity/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
 </div>
 <div class="col-12 col-lg-5 d-flex justify-content-center justify-content-lg-end align-items-start c-mt-7 c-mt-lg-0">
 <div class="case-study-preview__img overflow-hidden border-radius-1-25 d-inline-block">
@@ -393,9 +394,9 @@ E-Commerce </li>
 <li class="category-item fw-semibold font-size-12 letter-spacing-200 c-mr-3 c-mb-2">
 B2B Software </li>
 </ul>
-<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" href="https://forethought.ai/case-studies/beeline/">Beeline Increases Support Efficiency with a 52% Reduction in Time to Resolution</a></h2>
+<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary"   beeline/">Beeline Increases Support Efficiency with a 52% Reduction in Time to Resolution</a></h2>
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-3 c-pr-lg-10">Engage, Manage, & Optimize External Talent For more than 20 years, Beeline has led the extended workforce industry. Thanks to their intelligence-driven platform, they transform how businesses engage, manage, and optimize external...</div>
-<a href="https://forethought.ai/case-studies/beeline/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
+<a   beeline/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
 </div>
 <div class="col-12 col-lg-5 d-flex justify-content-center justify-content-lg-end align-items-start c-mt-7 c-mt-lg-0">
 <div class="case-study-preview__img overflow-hidden border-radius-1-25 d-inline-block">
@@ -413,9 +414,9 @@ B2B Software </li>
 <li class="category-item fw-semibold font-size-12 letter-spacing-200 c-mr-3 c-mb-2">
 E-Commerce </li>
 </ul>
-<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" href="https://forethought.ai/case-studies/uncommon-goods/">Uncommon Goods Scales Up for the Holiday Season with a 47% Self-Serve Rate</a></h2>
+<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary"   uncommon-goods/">Uncommon Goods Scales Up for the Holiday Season with a 47% Self-Serve Rate</a></h2>
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-3 c-pr-lg-10">Cool, Unique, & Unusual Gifts Uncommon Goods hand picks creative, original gifts and experiences that go beyond the ordinary&ndash;with a positive impact on both people and the planet. As a certified B...</div>
-<a href="https://forethought.ai/case-studies/uncommon-goods/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
+<a   uncommon-goods/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
 </div>
 <div class="col-12 col-lg-5 d-flex justify-content-center justify-content-lg-end align-items-start c-mt-7 c-mt-lg-0">
 <div class="case-study-preview__img overflow-hidden border-radius-1-25 d-inline-block">
@@ -433,9 +434,9 @@ E-Commerce </li>
 <li class="category-item fw-semibold font-size-12 letter-spacing-200 c-mr-3 c-mb-2">
 Marketplace </li>
 </ul>
-<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary" href="https://forethought.ai/case-studies/upwork/">Upwork Reduces Time to Resolution by 50% with Elloe</a></h2>
+<h2 class="c-mt-3"><a class="resource-preview__item-title font-size-48 line-height-1-3 text-secondary fw-black animated-border-bottom font-family-secondary"   upwork/">Upwork Reduces Time to Resolution by 50% with Elloe</a></h2>
 <div class="entry-content font-size-18 line-height-1-7 text-gray c-mt-3 c-pr-lg-10">The World&rsquo;s Work Marketplace Upwork is the world&rsquo;s work marketplace. It serves everyone from one-person startups to over 30% of the Fortune 100 with a powerful, trust-driven platform that enables companies and...</div>
-<a href="https://forethought.ai/case-studies/upwork/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
+<a   upwork/" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient fw-semibold c-mt-5 c-mt-lg-3">Read the story</a>
 </div>
 <div class="col-12 col-lg-5 d-flex justify-content-center justify-content-lg-end align-items-start c-mt-7 c-mt-lg-0">
 <div class="case-study-preview__img overflow-hidden border-radius-1-25 d-inline-block">
@@ -444,7 +445,7 @@ Marketplace </li>
 </div>
 </article>
 <nav aria-label="Page navigation">
-<ul class="crunch-pagination d-flex align-items-center justify-content-center c-pt-6 c-mb-0 line-height-1"><li class="page-item c-mx-2 fw-medium font-size-16 line-height-1-3"><span aria-current="page" class="page-numbers current">1</span></li><li class="page-item c-mx-2 fw-medium font-size-16 line-height-1-3"><a class="page-numbers" href="https://forethought.ai/customers/page/2/#case-stories">2</a></li><a href="https://forethought.ai/customers/page/2/"><svg class="d-block" enable-background="new 0 0 4 7" width="8" height="14" viewBox="0 0 4 7" xmlns="http://www.w3.org/2000/svg"><path d="m.5.5 3 3-3 3" fill="none" stroke-linecap="round" stroke-linejoin="round" /></svg></a></li></ul>
+<!-- <ul class="crunch-pagination d-flex align-items-center justify-content-center c-pt-6 c-mb-0 line-height-1"><li class="page-item c-mx-2 fw-medium font-size-16 line-height-1-3"><span aria-current="page" class="page-numbers current">1</span></li><li class="page-item c-mx-2 fw-medium font-size-16 line-height-1-3"><a class="page-numbers" href="https://forethought.ai/customers/page/2/#case-stories">2</a></li><a href="https://forethought.ai/customers/page/2/"><svg class="d-block" enable-background="new 0 0 4 7" width="8" height="14" viewBox="0 0 4 7" xmlns="http://www.w3.org/2000/svg"><path d="m.5.5 3 3-3 3" fill="none" stroke-linecap="round" stroke-linejoin="round" /></svg></a></li></ul> -->
 </nav>
 </div>
 <section id="acf-block-testimonials-case-study-archive" class="acf-block-testimonials overflow-hidden js-testimonials-slider" data-anim="fade-up">

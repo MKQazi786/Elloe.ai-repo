@@ -121,7 +121,7 @@ s.parentNode.insertBefore(b, s);})();
 <h1 class="hero-section-11__title text-center mx-auto">Think future with Elloe.</h1>
 <div class="hero-section-11__content entry-content text-gray fw-medium mx-auto c-mt-5 line-height-1-6 text-center">
 <span style="font-weight: 400;">Be a part of transforming customer service on the leading platform for AI-first experiences.</span> </div>
-<a href="#open-roles" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient c-mt-5">View open positions</a>
+<a href="https://jobs.gem.com/elloe-ai" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient c-mt-5">View open positions</a>
 <div class="hero-section-11__image-1-wrapper position-absolute">
 <img width="363" height="363" src="https://forethought.ai/wp-content/uploads/2021/10/careers-1.jpg" class="hero-section-11__image-1 d-block rounded-circle position-relative z-index-2" alt decoding="async" srcset="https://forethought.ai/wp-content/uploads/2021/10/careers-1.jpg 363w, https://forethought.ai/wp-content/uploads/2021/10/careers-1-150x150.jpg 150w, https://forethought.ai/wp-content/uploads/2021/10/careers-1-100x100.jpg 100w, https://forethought.ai/wp-content/uploads/2021/10/careers-1-250x250.jpg 250w" sizes="(max-width: 363px) 100vw, 363px" /> <svg class="h-auto position-absolute z-index-1" viewBox="0 0 177 178" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M177 178C177 80.3332 97.1181 -3.50785e-06 1.52588e-05 -7.7726e-06C1.26782e-05 59.3101 1.00945e-05 118.69 7.51388e-06 178C58.9769 178 118.023 178 177 178Z" fill="#66E0F6" />
@@ -229,7 +229,7 @@ s.parentNode.insertBefore(b, s);})();
 &#13;
 &#13;
 &#13;
-<a href="#open-roles" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--purple-gradient crunch-button__outline--medium c-mt-8 c-mt-lg-5">View open positions</a>&#13;
+<a href="https://jobs.gem.com/elloe-ai" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--purple-gradient crunch-button__outline--medium c-mt-8 c-mt-lg-5">View open positions</a>&#13;
 &#13;
 </div>&#13;
 </div>&#13;
@@ -730,7 +730,7 @@ document.addEventListener("DOMContentLoaded", () => {
 &#13;
 &#13;
 &#13;
-<a href="#open-roles" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--purple-gradient crunch-button__outline--medium c-mt-8 c-mt-lg-5">View open positions</a>&#13;
+<a href="https://jobs.gem.com/elloe-ai" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--purple-gradient crunch-button__outline--medium c-mt-8 c-mt-lg-5">View open positions</a>&#13;
 &#13;
 &#13;
 </div>&#13;

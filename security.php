@@ -1,3 +1,4 @@
+<?php /* Template name: security */ ?>
 
 
 <!doctype html>
@@ -384,7 +385,7 @@ Elloe?</h2>&#13;
 &#13;
 <div class="acf-block-text-call-to-action__text acf-block-text-call-to-action__text--bolded entry-content font-size-18 line-height-1-5 text-gray c-px-lg-6 c-mt-6 c-mt-lg-3">&#13;
 <p>We&#x2019;d love to answer them. Feel free to email us at<br>
-<strong><a href="/cdn-cgi/l/email-protection#acdfc9cfd9dec5d8d5eccac3dec9d8c4c3d9cbc4d882cdc5"><span class="__cf_email__" data-cfemail="60130503151209141920060f120514080f150708144e0109">[email&#160;protected]</span></a></strong>.</p>
+<strong><a   ><span class="__cf_email__" data-cfemail="60130503151209141920060f120514080f150708144e0109">[email&#160;protected]</span></a></strong>.</p>
 </div>&#13;
 &#13;
 &#13;
@@ -414,7 +415,7 @@ Elloe?</h2>&#13;
 &#13;
 &#13;
 <div class="entry-content font-weight-medium text-gray c-mt-6 c-mt-lg-0">&#13;
-<p><span id="m_-2431103140782361332gmail-docs-internal-guid-5a1b11c0-7fff-1e3c-d8b2-5e02dbd33862">Elloe maintains a private, invite-only bug bounty program, with the assistance of HackerOne. Invited researchers are eligible for a payment. Those who were not invited to the program may still submit a security bug or vulnerability to </span><a href="https://hackerone.com/80d37fad-19a7-4823-898b-2d9b96aa9941/embedded_submissions/new" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://hackerone.com/80d37fad-19a7-4823-898b-2d9b96aa9941/embedded_submissions/new&amp;source=gmail&amp;ust=1644099336771000&amp;usg=AOvVaw1PhO23z7BNIZbNvjDlvTyh">Elloe via this form</a>.</p>
+<p><span id="m_-2431103140782361332gmail-docs-internal-guid-5a1b11c0-7fff-1e3c-d8b2-5e02dbd33862">Elloe maintains a private, invite-only bug bounty program, with the assistance of HackerOne. Invited researchers are eligible for a payment. Those who were not invited to the program may still submit a security bug or vulnerability to </span><a    target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://hackerone.com/80d37fad-19a7-4823-898b-2d9b96aa9941/embedded_submissions/new&amp;source=gmail&amp;ust=1644099336771000&amp;usg=AOvVaw1PhO23z7BNIZbNvjDlvTyh">Elloe via this form</a>.</p>
 </div>&#13;
 &#13;
 &#13;

@@ -1,3 +1,5 @@
+<?php /* Template name: integrations */ ?>
+
 
 
 <!doctype html>
@@ -8,8 +10,8 @@
 <link rel="shortcut icon" type="image" href="http://www.elloe.ai/wp-content/uploads/2024/04/full.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Forethought">
-<meta name="application-name" content="Forethought">
+<meta name="apple-mobile-web-app-title" content="Elloe">
+<meta name="application-name" content="Elloe">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="msapplication-TileColor" content="%23ffffff">
 <meta name="msapplication-TileImage" content="https://forethought.ai/wp-content/themes/forethought/images/favicon/mstile-144x144.png">
@@ -128,7 +130,7 @@ s.parentNode.insertBefore(b, s);})();
 <div class="js-lottie hero-section-2__animated-icon adjustable-element d-block mx-auto" data-path="https://forethought.ai/wp-content/uploads/2021/10/Integrations_Icon_v01.json" data-loop="false"></div>
 <h1 class="hero-section-2__title c-mt-3 text-center mx-auto">Integrate with Zendesk, Salesforce, and other support platforms.</h1>
 <div class="hero-section-2__content entry-content text-gray fw-medium mx-auto c-mt-5 line-height-1-6">
-<span style="font-weight: 400;">Forethought is designed to integrate seamlessly into your existing </span><span style="font-weight: 400;">helpdesk</span><span style="font-weight: 400;"> and other support platforms,</span><span style="font-weight: 400;"> making it easy for you to empower your agents and transform you</span><span style="font-weight: 400;">r customer experience with AI.</span> </div>
+<span style="font-weight: 400;">Elloe is designed to integrate seamlessly into your existing </span><span style="font-weight: 400;">helpdesk</span><span style="font-weight: 400;"> and other support platforms,</span><span style="font-weight: 400;"> making it easy for you to empower your agents and transform you</span><span style="font-weight: 400;">r customer experience with AI.</span> </div>
 </div>
 </div>
 </div>
@@ -177,7 +179,7 @@ s.parentNode.insertBefore(b, s);})();
 &#13;
 <div class="col-md-3 col-sm-6 c-mt-9" data-anim="fade-up">&#13;
 &#13;
-<a href="https://forethought.ai/integrations/zendesk/" target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
+<a  target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
 &#13;
 &#13;
 <div class="single-company__logo d-flex align-items-center justify-content-center position-relative single-company__logo--with-styles" style="--image-width: 4.688rem; --image-mobile-width: 3.7504rem;">&#13;
@@ -202,7 +204,7 @@ Industry-leading helpdesk platform </div>&#13;
 &#13;
 <div class="col-md-3 col-sm-6 c-mt-9" data-anim="fade-up">&#13;
 &#13;
-<a href="https://forethought.ai/integrations/salesforce/" target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
+<a  target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
 &#13;
 &#13;
 <div class="single-company__logo d-flex align-items-center justify-content-center position-relative single-company__logo--with-styles" style="--image-width: 5.938rem; --image-mobile-width: 4.7504rem;">&#13;
@@ -227,7 +229,7 @@ Industry-leading CRM </div>&#13;
 &#13;
 <div class="col-md-3 col-sm-6 c-mt-9" data-anim="fade-up">&#13;
 &#13;
-<a href="https://forethought.ai/integrations/servicenow/" target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
+<a  target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
 &#13;
 &#13;
 <div class="single-company__logo d-flex align-items-center justify-content-center position-relative single-company__logo--with-styles" style="--image-width: 12.25rem; --image-mobile-width: 9.8rem;">&#13;
@@ -252,7 +254,7 @@ Customer service workflows </div>&#13;
 &#13;
 <div class="col-md-3 col-sm-6 c-mt-9" data-anim="fade-up">&#13;
 &#13;
-<a href="https://forethought.ai/integrations/kustomer/" target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
+<a  target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
 &#13;
 &#13;
 <div class="single-company__logo d-flex align-items-center justify-content-center position-relative single-company__logo--with-styles" style="--image-width: 13.25rem; --image-mobile-width: 10.6rem;">&#13;
@@ -277,7 +279,7 @@ Customer service CRM </div>&#13;
 &#13;
 <div class="col-md-3 col-sm-6 c-mt-9" data-anim="fade-up">&#13;
 &#13;
-<a href="https://forethought.ai/integrations/sunshine-conversations" target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
+<a  target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
 &#13;
 &#13;
 <div class="single-company__logo d-flex align-items-center justify-content-center position-relative single-company__logo--with-styles" style="--image-width: 12.125rem; --image-mobile-width: 9.7rem;">&#13;
@@ -328,7 +330,7 @@ AI-powered customer SaaS </div>&#13;
 &#13;
 <div class="col-md-3 col-sm-6 c-mt-9" data-anim="fade-up">&#13;
 &#13;
-<a href="https://forethought.ai/integrations/dialpad/" target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
+<a  integrations/dialpad/" target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
 &#13;
 &#13;
 <div class="single-company__logo d-flex align-items-center justify-content-center position-relative single-company__logo--with-styles" style="--image-width: 12.938rem; --image-mobile-width: 10.3504rem;">&#13;
@@ -409,7 +411,7 @@ Coming soon </div>&#13;
 &#13;
 <div class="col-md-3 col-sm-6 c-mt-9" data-anim="fade-up">&#13;
 &#13;
-<a href="https://forethought.ai/partners/aws/" target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
+<a  partners/aws/" target="_self" class="single-company c-py-6 c-py-md-5 d-block">&#13;
 &#13;
 &#13;
 <div class="single-company__logo d-flex align-items-center justify-content-center position-relative single-company__logo--with-styles" style="--image-width: 11.25rem; --image-mobile-width: 9rem;">&#13;
