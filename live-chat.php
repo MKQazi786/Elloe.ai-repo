@@ -207,7 +207,7 @@ How we assist </h3>&#13;
 &#13;
 <img decoding="async" width="1" height="1" src="https://forethought.ai/wp-content/uploads/2021/10/assist.svg" class="acf-block-list-with-image__icon d-block h-auto lazyload mx-auto c-mb-3" alt data-lazy="true">&#13;
 &#13;
-<span class="h3">Live Chat</span>&#13;
+<span class="h3">Assist</span>&#13;
 &#13;
 &#13;
 </div>&#13;
@@ -217,7 +217,7 @@ How we assist </h3>&#13;
 <div class="acf-block-list-with-image__image-with-icons text-center position-relative c-pl-4 c-pr-md-9 c-pr-xl-0">&#13;
   &#13;
 
-  <img decoding="async" width="1" height="1" srcset="https://mitsol.tech/elloe.ai/wp-content/uploads/2024/04/elloe_live-chat.png" class="acf-block-list-with-image__image-with-icons--image h-auto w-100 w-lg-auto lazyload" alt data-lazy="true">
+  <img decoding="async" width="1" height="1" srcset="./elloe_live-chat.png" class="acf-block-list-with-image__image-with-icons--image h-auto w-100 w-lg-auto lazyload" alt data-lazy="true">
   &#13;
 &#13;
 &#13;
@@ -521,7 +521,7 @@ How we assist </h3>&#13;
 &#13;
 <div class="col-12">&#13;
 &#13;
-<a href="https://elloe.ai/platform/" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient c-mt-7 d-none d-lg-inline-block">Our platform</a>&#13;
+<a href="https://forethought.ai/platform/" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--medium crunch-button__outline--purple-gradient c-mt-7 d-none d-lg-inline-block">Our platform</a>&#13;
 </div>&#13;
 &#13;
 </div>&#13;
@@ -837,7 +837,7 @@ How we assist </h3>&#13;
 &#13;
 &#13;
 &#13;
-<a href="https://elloe.ai/request-demo/" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--white-color c-mt-6">Request a demo</a>&#13;
+<a href="https://forethought.ai/view-demo/" target="_self" class="crunch-button crunch-button__outline crunch-button__outline--white-color c-mt-6">Request a demo</a>&#13;
 &#13;
 &#13;
 </div>&#13;

@@ -218,7 +218,7 @@ How we Intelligent Routing </h3>&#13;
 &#13;
 <div class="acf-block-list-with-image__image-with-icons text-center position-relative c-pl-4 c-pr-md-9 c-pr-xl-0">&#13;
 &#13;
-<img decoding="async" width="1" height="1" src="https://mitsol.tech/elloe.ai/wp-content/uploads/2024/04/elloe_intelligent-routing.png" class="acf-block-list-with-image__image-with-icons--image h-auto w-100 w-lg-auto ls-is-cached lazyloaded" alt="" data-lazy="true">
+<img decoding="async" width="1" height="1" src="./elloe_intelligent-routing.png" class="acf-block-list-with-image__image-with-icons--image h-auto w-100 w-lg-auto ls-is-cached lazyloaded" alt="" data-lazy="true">
 &#13;
 &#13;
 &#13;

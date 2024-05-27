@@ -218,7 +218,7 @@ Elloe AI Co-Pilot </h3>&#13;
 &#13;
 <div class="acf-block-list-with-image__image-with-icons text-center position-relative c-pl-4 c-pr-md-9 c-pr-xl-0">&#13;
 &#13;
-<img decoding="async" width="10" height="1" src="https://mitsol.tech/elloe.ai/wp-content/uploads/2024/04/elloe_ai-co-pilot.png" class="acf-block-list-with-image__image-with-icons--image h-auto w-100 w-lg-auto lazyload" alt data-lazy="true">&#13;
+<img decoding="async" width="10" height="1" src="./elloe_ai-co-pilot.png" class="acf-block-list-with-image__image-with-icons--image h-auto w-100 w-lg-auto lazyload" alt data-lazy="true">&#13;
 &#13;
 &#13;
 &#13;
@@ -276,7 +276,7 @@ Elloe AI Co-Pilot </h3>&#13;
 <div class="col-12 col-md-6 c-mt-10 c-mt-md-0 c-px-md-1">&#13;
 &#13;
 &#13;
-<!-- <img loading="lazy" decoding="async" width="1" height="1" src="https://forethought.ai/wp-content/uploads/2021/10/ai-powered.svg" class="adjustable-element d-block lazyload" alt data-lazy="true">&#13; -->
+<img loading="lazy" decoding="async" width="1" height="1" src="https://forethought.ai/wp-content/uploads/2021/10/ai-powered.svg" class="adjustable-element d-block lazyload" alt data-lazy="true">&#13;
 </div>&#13;
 </div>&#13;
 </div>&#13;

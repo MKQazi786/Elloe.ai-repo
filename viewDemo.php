@@ -64,7 +64,7 @@ s.parentNode.insertBefore(b, s);})();
 
 <title>Request a Demo | Elloe</title><link rel="preload" as="font" href="https://forethought.ai/wp-content/themes/forethought/src/fonts/Tiempos-Headline-Black.woff" crossorigin><link rel="preload" as="font" href="https://forethought.ai/wp-content/themes/forethought/src/fonts/Lexend-Light.woff" crossorigin><link rel="preload" as="font" href="https://forethought.ai/wp-content/themes/forethought/src/fonts/Lexend-Regular.woff" crossorigin><link rel="preload" as="font" href="https://forethought.ai/wp-content/themes/forethought/src/fonts/Lexend-Medium.woff" crossorigin><link rel="preload" as="font" href="https://forethought.ai/wp-content/themes/forethought/src/fonts/Lexend-SemiBold.woff" crossorigin><link rel="preload" as="font" href="https://forethought.ai/wp-content/themes/forethought/src/fonts/Lexend-Bold.woff" crossorigin>
   
-<link rel="stylesheet" href="https://mitsol.tech/elloe.ai/wp-content/themes/twentytwentyfour/myStyles.css">
+<link rel="stylesheet" href="./myStyles.css">
 
 <meta name="description" content="See how Elloe AI can transform your customer service. Request a demo with the Elloe team." />
 <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />

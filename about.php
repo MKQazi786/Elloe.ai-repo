@@ -1239,7 +1239,7 @@ summa cum laude</p>&#13;
 &#13;
 &#13;
 &#13;
-<a src="" target="_blank" rel="nofollow noopener" class=" crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--purple-gradient crunch-button__outline--medium c-mt-4">View open positions </a>&#13;
+<a target="_blank" rel="nofollow noopener" class=" crunch-button crunch-button__outline crunch-button__outline--secondary-color crunch-button__outline--purple-gradient crunch-button__outline--medium c-mt-4">View open positions </a>&#13;
 &#13;
 </div>&#13;
 &#13;
